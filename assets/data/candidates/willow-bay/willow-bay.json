@@ -1,0 +1,18 @@
+{
+  "id": "willow-bay",
+  "names": {
+    "common": "Bay Willow",
+    "scientific": "Salix pentandra"
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Serrate",
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": [ "3 to 6cm", "6 to 10cm", "Over 10cm" ]
+  },
+  "tree": {
+    "fruit-category": "Downy seeds",
+    "flower-category": "Catkins"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "needle-stiffness",
+  "attribute": "needles",
+  "description": "Are the needles stiff?",
+  "default": "No needles",
+  "filters": [
+    {
+      "id": "stiff",
+      "type": "include",
+      "value": "Stiff",
+      "button_label": "Stiff",
+      "filter_label": "Needles stiff"
+    },
+    {
+      "id": "soft",
+      "type": "include",
+      "value": "Soft",
+      "button_label": "Soft",
+      "filter_label": "Needles soft"
+    },
+    {
+      "id": "no-needles",
+      "type": "include",
+      "value": "No needles",
+      "button_label": "No needles",
+      "filter_label": "No needles"
+    }
+  ]
+}

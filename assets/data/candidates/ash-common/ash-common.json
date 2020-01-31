@@ -1,0 +1,23 @@
+{
+  "id": "ash-common",
+  "names": {
+    "common": "Common Ash",
+    "scientific": "Fraxinus excelsior "
+  },
+  "leaves": {
+    "leaf-type": "Compound",
+    "leaf-arrangement": "Opposite",
+    "leaf-margin": "Serrate",
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": [ "Over 10cm" ]
+  },
+  "leaflets": {
+    "leaflet-arrangement": "Odd-pinnate",
+    "leaflet-count-bracket": "7 to 15",
+    "leaflet-base": "Symmetrical"
+  },
+  "tree": {
+    "fruit-category": "Winged seeds",
+    "flower-category": "Flowers without 5 petals"
+  }
+}

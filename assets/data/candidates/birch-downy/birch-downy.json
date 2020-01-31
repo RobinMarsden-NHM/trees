@@ -1,0 +1,18 @@
+{
+  "id": "birch-downy",
+  "names": {
+    "common": "Downy Birch",
+    "scientific": "Betula pubescens"
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": [ "Serrate", "Dentate" ],
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": [ "Up to 3cm", "3 to 6cm" ]
+  },
+  "tree": {
+    "fruit-category": "Dry or woody cones",
+    "flower-category": "Catkins"
+  }
+}

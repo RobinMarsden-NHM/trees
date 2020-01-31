@@ -1,0 +1,24 @@
+{
+  "id": "rowan-european",
+  "names": {
+    "common": "European Rowan",
+    "scientific": "Sorbus aucuparia",
+    "other": [ "Mountain Ash" ]
+  },
+  "leaves": {
+    "leaf-type": "Compound",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Serrate",
+    "leaf-tip": [ "Pointed" ],
+    "leaf-length-bracket": [ "Over 10cm" ]
+  },
+  "leaflets": {
+    "leaflet-arrangement": "Odd-pinnate",
+    "leaflet-count-bracket": "9 to 19",
+    "leaflet-base": "Asymmetric"
+  },
+  "tree": {
+    "fruit-category": "Soft fruit or berries",
+    "flower-category": "Flowers with 5 petals"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "needle-base-type",
+  "attribute": "needles",
+  "description": "What best describes the needle's attachment to the twig?",
+  "default": "No needles",
+  "filters": [
+    {
+      "id": "suction-cup",
+      "type": "include",
+      "value": "Suction cup",
+      "button_label": "Like a suction cup",
+      "filter_label": "Needles with suction cup attachment"
+    },
+    {
+      "id": "woody-peg",
+      "type": "include",
+      "value": "Woody peg",
+      "button_label": "With a woody peg structure",
+      "filter_label": "Needles attached to woody pegs"
+    },
+    {
+      "id": "broad",
+      "type": "include",
+      "value": "Broad attachment",
+      "button_label": "Broad based needles emerge directly from the twig",
+      "filter_label": "Needles attached directly to twig"
+    },
+    {
+      "id": "decurrent",
+      "type": "include",
+      "value": "Decurrent",
+      "button_label": "Needles bases are decurrent to the twig",
+      "filter_label": "Needles are decurrent"
+    },
+    {
+      "id": "no-needles",
+      "type": "include",
+      "value": "No needles",
+      "button_label": "No needles",
+      "filter_label": "No needles"
+    }
+  ]
+}

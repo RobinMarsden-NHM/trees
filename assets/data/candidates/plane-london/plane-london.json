@@ -1,0 +1,25 @@
+{
+  "id": "plane-london",
+  "names": {
+    "common": "London Plane",
+    "scientific": "Platanus x hispanica"
+  },
+  "leaves": {
+    "leaf-type": "Lobed",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Entire",
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": [ "Over 10cm" ]
+  },
+  "lobes": {
+    "lobe-count-bracket": "9 at most",
+    "lobe-symmetry": "Symmetrical",
+    "lobe-count": "Usually 3-5 lobes",
+    "lobe-sinus-base": [ "Rounded", "Acute" ],
+    "lobe-sinus-depth": [ "Less than halfway", "About halfway" ]
+  },
+  "tree": {
+    "fruit-category": "Nuts or capsules",
+    "flower-category": [ "Flowers without 5 petals" ]
+  }
+}

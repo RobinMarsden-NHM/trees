@@ -1,0 +1,18 @@
+{
+  "id": "willow-white",
+  "names": {
+    "common": "White Willow",
+    "scientific": "Salix alba"
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": [ "Serrate", "Dentate" ],
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": [ "3 to 6cm", "6 to 10cm" ]
+  },
+  "tree": {
+    "fruit-category": "Downy seeds",
+    "flower-category": "Catkins"
+  }
+}

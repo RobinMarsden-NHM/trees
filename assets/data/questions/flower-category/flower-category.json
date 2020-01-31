@@ -1,0 +1,36 @@
+{
+  "id": "flower-category",
+  "attribute": "tree",
+  "description": "Can you see any flowers or catkins on the tree?",
+  "common": "No flowers",
+  "filters": [
+    {
+      "id": "catkins",
+      "type": "include",
+      "value": "Catkins",
+      "button_label": "Catkins",
+      "filter_label": "Catkins"
+    },
+    {
+      "id": "flowers-5-petals",
+      "type": "include",
+      "value": "Flowers with 5 petals",
+      "button_label": "Flowers with 5 obvious petals",
+      "filter_label": "Flowers with 5 petals"
+    },
+    {
+      "id": "flowers-without-5-petals",
+      "type": "include",
+      "value": "Flowers without 5 petals",
+      "button_label": "Flowers without 5 obvious petals",
+      "filter_label": "Flowers without 5 petals"
+    },
+    {
+      "id": "no-flowers",
+      "type": "include",
+      "value": "No flowers",
+      "button_label": "No flowers or catkins",
+      "filter_label": "No flowers or catkins"
+    }
+  ]
+}

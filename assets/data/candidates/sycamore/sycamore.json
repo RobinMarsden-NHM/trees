@@ -1,0 +1,25 @@
+{
+  "id": "sycamore",
+  "names": {
+    "common": "Sycamore",
+    "scientific": "Acer pseudoplatanus"
+  },
+  "leaves": {
+    "leaf-type": "Lobed",
+    "leaf-arrangement": "Opposite",
+    "leaf-margin": [ "Serrate", "Dentate" ],
+    "leaf-tip": [ "Pointed", "Obtuse", "Rounded" ],
+    "leaf-length-bracket": [ "6 to 10cm", "Over 10cm" ]
+  },
+  "lobes": {
+    "lobe-count-bracket": "9 at most",
+    "lobe-symmetry": "Symmetrical",
+    "lobe-count": "Usually 3-5 lobes",
+    "lobe-sinus-base": "Acute",
+    "lobe-sinus-depth": [ "Less than halfway", "About halfway" ]
+  },
+  "tree": {
+    "fruit-category": "Winged seeds",
+    "flower-category": "Flowers without 5 petals"
+  }
+}

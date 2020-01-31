@@ -1,0 +1,4371 @@
+[
+  {
+    "id": "alder",
+    "names": {
+      "common": "Alder",
+      "scientific": "Alnus glutinosa",
+      "other": [
+        "Common Alder",
+        "European Alder",
+        "Black Alder"
+      ]
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Rounded",
+        "Indented"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Dry or woody cones",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Catkins",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "ash-common",
+    "names": {
+      "common": "Common Ash",
+      "scientific": "Fraxinus excelsior "
+    },
+    "leaves": {
+      "leaf-type": [
+        "Compound"
+      ],
+      "leaf-arrangement": [
+        "Opposite"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Over 10cm"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "Odd-pinnate"
+      ],
+      "leaflet-count-bracket": [
+        "7 to 15"
+      ],
+      "leaflet-base": [
+        "Symmetrical"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Winged seeds",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "ash-manna",
+    "names": {
+      "common": "Manna Ash",
+      "scientific": "Fraxinus ornus "
+    },
+    "leaves": {
+      "leaf-type": [
+        "Compound"
+      ],
+      "leaf-arrangement": [
+        "Opposite"
+      ],
+      "leaf-margin": [
+        "Serrate",
+        "Dentate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Over 10cm"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "Odd-pinnate"
+      ],
+      "leaflet-count-bracket": [
+        "7 to 11"
+      ],
+      "leaflet-base": [
+        "Symmetrical"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Winged seeds",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "aspen",
+    "names": {
+      "common": "Aspen",
+      "scientific": "Populus tremula"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Dentate"
+      ],
+      "leaf-tip": [
+        "Rounded",
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm",
+        "3 to 6cm",
+        "6 to 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Nuts or capsules",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Catkins",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "beech-european",
+    "names": {
+      "common": "European Beech",
+      "scientific": "Fagus sylvatica"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Entire"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Nuts or capsules",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Catkins",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "birch-downy",
+    "names": {
+      "common": "Downy Birch",
+      "scientific": "Betula pubescens"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate",
+        "Dentate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm",
+        "3 to 6cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Dry or woody cones",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Catkins",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "birch-silver",
+    "names": {
+      "common": "Silver Birch",
+      "scientific": "Betula pendula"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Dry or woody cones",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Catkins",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "blackthorn",
+    "names": {
+      "common": "Blackthorn",
+      "scientific": "Prunus spinosa",
+      "other": [
+        "Sloe"
+      ]
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate",
+        "Crenate"
+      ],
+      "leaf-tip": [
+        "Obtuse",
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm",
+        "3 to 6cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Soft fruit or berries",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers with 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "box",
+    "names": {
+      "common": "Box Tree",
+      "scientific": "Buxus sempervirens"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Opposite"
+      ],
+      "leaf-margin": [
+        "Entire"
+      ],
+      "leaf-tip": [
+        "Rounded",
+        "Indented"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Nuts or capsules",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "cherry-bird",
+    "names": {
+      "common": "Bird Cherry",
+      "scientific": "Prunus padus"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm",
+        "Over 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Soft fruit or berries",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers with 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "cherry-wild",
+    "names": {
+      "common": "Wild Cherry",
+      "scientific": "Prunus avium"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "6 to 10cm",
+        "Over 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Soft fruit or berries",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers with 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "chestnut-horse",
+    "names": {
+      "common": "Horse Chestnut",
+      "scientific": "Aesculus hippocastanum"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Compound"
+      ],
+      "leaf-arrangement": [
+        "Opposite"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Over 10cm"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "Palmate"
+      ],
+      "leaflet-count-bracket": [
+        "5 to 7"
+      ],
+      "leaflet-base": [
+        "Symmetrical"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Nuts or capsules",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers with 5 petals",
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "chestnut-sweet",
+    "names": {
+      "common": "Sweet Chestnut",
+      "scientific": "Castanea sativa"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Over 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Nuts or capsules",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Catkins",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "crab-apple",
+    "names": {
+      "common": "Crab Apple",
+      "scientific": "Malus sylvestris"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Soft fruit or berries",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers with 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "elm-smooth-leaved",
+    "names": {
+      "common": "Smooth-leaved Elm",
+      "scientific": "Ulmus minor",
+      "other": [
+        "Subspecies of Field Elm"
+      ]
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Winged seeds",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "elm-wych",
+    "names": {
+      "common": "Wych Elm",
+      "scientific": "Ulmus glabra",
+      "other": [
+        "Dutch Elm"
+      ]
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm",
+        "Over 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Winged seeds",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "fir-douglas",
+    "names": {
+      "common": "Douglas Fir",
+      "scientific": "Pseudotsuga menziesii"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Needle-like"
+      ],
+      "leaf-arrangement": [
+        "Other"
+      ],
+      "leaf-margin": [
+        "Entire"
+      ],
+      "leaf-tip": [
+        "Obtuse",
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm",
+        "3 to 6cm"
+      ]
+    },
+    "needles": {
+      "needle-or-scale": [
+        "Needle-like"
+      ],
+      "needle-grouping": [
+        "Singly"
+      ],
+      "needle-emergence": [
+        "Spiral"
+      ],
+      "needle-length-bracket": [
+        "Up to 4cm"
+      ],
+      "needle-base-type": [
+        "Suction cup"
+      ],
+      "needle-margin": [
+        "Entire"
+      ],
+      "needle-stiffness": [
+        "Soft"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Dry or woody cones",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    }
+  },
+  {
+    "id": "hawthorn-common",
+    "names": {
+      "common": "Common Hawthorn",
+      "scientific": "Crataegus monogyna"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Lobed"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Obtuse",
+        "Rounded"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm",
+        "3 to 6cm"
+      ]
+    },
+    "lobes": {
+      "lobe-count-bracket": [
+        "9 at most"
+      ],
+      "lobe-symmetry": [
+        "Symmetrical"
+      ],
+      "lobe-count": [
+        "Usually 5-7 lobes"
+      ],
+      "lobe-sinus-base": [
+        "Acute"
+      ],
+      "lobe-sinus-depth": [
+        "Nearly all the way"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Soft fruit or berries",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers with 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "hawthorn-midland",
+    "names": {
+      "common": "Midland Hawthorn",
+      "scientific": "Crataegus laevigata"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Lobed"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Obtuse",
+        "Rounded"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm",
+        "3 to 6cm"
+      ]
+    },
+    "lobes": {
+      "lobe-count-bracket": [
+        "9 at most"
+      ],
+      "lobe-symmetry": [
+        "Symmetrical"
+      ],
+      "lobe-count": [
+        "Usually 3-5 lobes"
+      ],
+      "lobe-sinus-base": [
+        "Acute"
+      ],
+      "lobe-sinus-depth": [
+        "Less than halfway"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Soft fruit or berries",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers with 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "hazel-common",
+    "names": {
+      "common": "Common Hazel",
+      "scientific": "Corylus avellana"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Nuts or capsules",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Catkins",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "hemlock-western",
+    "names": {
+      "common": "Western Hemlock",
+      "scientific": "Tsuga heterophylla"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Needle-like"
+      ],
+      "leaf-arrangement": [
+        "Other"
+      ],
+      "leaf-margin": [
+        "Entire",
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Rounded"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm"
+      ]
+    },
+    "needles": {
+      "needle-or-scale": [
+        "Needle-like"
+      ],
+      "needle-grouping": [
+        "Singly"
+      ],
+      "needle-emergence": [
+        "Spiral, but twisted to form a flat plane"
+      ],
+      "needle-length-bracket": [
+        "Under 2.5cm"
+      ],
+      "needle-base-type": [
+        "Woody peg"
+      ],
+      "needle-margin": [
+        "Finely serrate"
+      ],
+      "needle-stiffness": [
+        "Soft"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Dry or woody cones",
+        "No fruit"
+      ],
+      "flower-category": [
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    }
+  },
+  {
+    "id": "holly-european",
+    "names": {
+      "common": "European Holly",
+      "scientific": "Ilex aquifolium"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Spiny"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm",
+        "Over 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Soft fruit or berries",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "hornbeam-european",
+    "names": {
+      "common": "European Hornbeam",
+      "scientific": "Carpinus betulus"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Obtuse",
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Nuts or capsules",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Catkins",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "juniper-common",
+    "names": {
+      "common": "Common Juniper",
+      "scientific": "Juniperus communis"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Needle-like"
+      ],
+      "leaf-arrangement": [
+        "Other"
+      ],
+      "leaf-margin": [
+        "Entire"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm"
+      ]
+    },
+    "needles": {
+      "needle-or-scale": [
+        "Needle-like"
+      ],
+      "needle-grouping": [
+        "In whorls of 3"
+      ],
+      "needle-emergence": [
+        "Spiral"
+      ],
+      "needle-length-bracket": [
+        "Under 2.5cm"
+      ],
+      "needle-base-type": [
+        "Broad attachment"
+      ],
+      "needle-margin": [
+        "Entire"
+      ],
+      "needle-stiffness": [
+        "Stiff"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Soft fruit or berries",
+        "Dry or woody cones",
+        "No fruit"
+      ],
+      "flower-category": [
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    }
+  },
+  {
+    "id": "larch-european",
+    "names": {
+      "common": "European Larch",
+      "scientific": "Larix decidua"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Needle-like"
+      ],
+      "leaf-arrangement": [
+        "Other"
+      ],
+      "leaf-margin": [
+        "Entire"
+      ],
+      "leaf-tip": [
+        "Obtuse",
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm",
+        "3 to 6cm"
+      ]
+    },
+    "needles": {
+      "needle-or-scale": [
+        "Needle-like"
+      ],
+      "needle-grouping": [
+        "Singly on some shoots, in large groups on others"
+      ],
+      "needle-emergence": [
+        "Spiral"
+      ],
+      "needle-length-bracket": [
+        "Up to 4cm"
+      ],
+      "needle-base-type": [
+        "Woody peg"
+      ],
+      "needle-margin": [
+        "Entire"
+      ],
+      "needle-stiffness": [
+        "Soft"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Dry or woody cones",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    }
+  },
+  {
+    "id": "leylandii",
+    "names": {
+      "common": "Leyland cypress",
+      "scientific": "Cupressus × leylandii",
+      "other": [
+        "Leylandii"
+      ]
+    },
+    "leaves": {
+      "leaf-type": [
+        "Scale-like"
+      ],
+      "leaf-arrangement": [
+        "Other"
+      ],
+      "leaf-margin": [
+        "Entire"
+      ],
+      "leaf-tip": [
+        "Rounded"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm"
+      ]
+    },
+    "needles": {
+      "needle-or-scale": [
+        "Scale-like"
+      ],
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Dry or woody cones",
+        "No fruit"
+      ],
+      "flower-category": [
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    }
+  },
+  {
+    "id": "lime-large-leaved",
+    "names": {
+      "common": "Large-leaved Lime",
+      "scientific": "Tilia platyphyllos",
+      "other": [
+        "Large-leaved Linden"
+      ]
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate",
+        "Crenate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "6 to 10cm",
+        "Over 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Nuts or capsules",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers with 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "lime-small-leaved",
+    "names": {
+      "common": "Small-leaved Lime",
+      "scientific": "Tilia cordata",
+      "other": [
+        "Small-leaved Linden"
+      ]
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Nuts or capsules",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers with 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "maple-field",
+    "names": {
+      "common": "Field Maple",
+      "scientific": "Acer campestre"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Lobed"
+      ],
+      "leaf-arrangement": [
+        "Opposite"
+      ],
+      "leaf-margin": [
+        "Entire"
+      ],
+      "leaf-tip": [
+        "Obtuse",
+        "Rounded"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm"
+      ]
+    },
+    "lobes": {
+      "lobe-count-bracket": [
+        "9 at most"
+      ],
+      "lobe-symmetry": [
+        "Symmetrical"
+      ],
+      "lobe-count": [
+        "Usually 5 lobes"
+      ],
+      "lobe-sinus-base": [
+        "Rounded",
+        "Acute"
+      ],
+      "lobe-sinus-depth": [
+        "About halfway"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Winged seeds",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers with 5 petals",
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "monkey-puzzle",
+    "names": {
+      "common": "Monkey Puzzle",
+      "scientific": "Araucaria araucana"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Scale-like"
+      ],
+      "leaf-arrangement": [
+        "Other"
+      ],
+      "leaf-margin": [
+        "Entire",
+        "Spiny"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm",
+        "3 to 6cm"
+      ]
+    },
+    "needles": {
+      "needle-or-scale": [
+        "Scale-like"
+      ],
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Dry or woody cones",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    }
+  },
+  {
+    "id": "oak-common",
+    "names": {
+      "common": "Common Oak",
+      "scientific": "Quercus robur",
+      "other": [
+        "Pedunculate Oak"
+      ]
+    },
+    "leaves": {
+      "leaf-type": [
+        "Lobed"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Entire"
+      ],
+      "leaf-tip": [
+        "Rounded"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm",
+        "Over 10cm"
+      ]
+    },
+    "lobes": {
+      "lobe-count-bracket": [
+        "Some have more than 9"
+      ],
+      "lobe-symmetry": [
+        "Asymmetric"
+      ],
+      "lobe-count": [
+        "Usually 7-15 lobes"
+      ],
+      "lobe-sinus-base": [
+        "Rounded"
+      ],
+      "lobe-sinus-depth": [
+        "About halfway"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Nuts or capsules",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Catkins",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "oak-sessile",
+    "names": {
+      "common": "Sessile Oak",
+      "scientific": "Quercus petraea"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Lobed"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Entire"
+      ],
+      "leaf-tip": [
+        "Obtuse",
+        "Rounded"
+      ],
+      "leaf-length-bracket": [
+        "6 to 10cm",
+        "Over 10cm"
+      ]
+    },
+    "lobes": {
+      "lobe-count-bracket": [
+        "Some have more than 9"
+      ],
+      "lobe-symmetry": [
+        "Asymmetric"
+      ],
+      "lobe-count": [
+        "Usually 11-19 lobes"
+      ],
+      "lobe-sinus-base": [
+        "Rounded",
+        "Acute"
+      ],
+      "lobe-sinus-depth": [
+        "Less than halfway"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Nuts or capsules",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Catkins",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "pine-scots",
+    "names": {
+      "common": "Scots Pine",
+      "scientific": "Pinus sylvestris"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Needle-like"
+      ],
+      "leaf-arrangement": [
+        "Other"
+      ],
+      "leaf-margin": [
+        "Entire",
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm",
+        "3 to 6cm"
+      ]
+    },
+    "needles": {
+      "needle-or-scale": [
+        "Needle-like"
+      ],
+      "needle-grouping": [
+        "In pairs"
+      ],
+      "needle-emergence": [
+        "Spiral"
+      ],
+      "needle-length-bracket": [
+        "Over 4cm"
+      ],
+      "needle-base-type": [
+        "Woody peg"
+      ],
+      "needle-margin": [
+        "Finely serrate"
+      ],
+      "needle-stiffness": [
+        "Stiff"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Dry or woody cones",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    }
+  },
+  {
+    "id": "plane-london",
+    "names": {
+      "common": "London Plane",
+      "scientific": "Platanus x hispanica"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Lobed"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Entire"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Over 10cm"
+      ]
+    },
+    "lobes": {
+      "lobe-count-bracket": [
+        "9 at most"
+      ],
+      "lobe-symmetry": [
+        "Symmetrical"
+      ],
+      "lobe-count": [
+        "Usually 3-5 lobes"
+      ],
+      "lobe-sinus-base": [
+        "Rounded",
+        "Acute"
+      ],
+      "lobe-sinus-depth": [
+        "Less than halfway",
+        "About halfway"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Nuts or capsules",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "poplar-black",
+    "names": {
+      "common": "Black Poplar",
+      "scientific": "Populus nigra"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate",
+        "Dentate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Downy seeds",
+        "Nuts or capsules",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Catkins",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "redwood-coast",
+    "names": {
+      "common": "Coast Redwood",
+      "scientific": "Sequoia sempervirens"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Needle-like"
+      ],
+      "leaf-arrangement": [
+        "Other"
+      ],
+      "leaf-margin": [
+        "Entire"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm"
+      ]
+    },
+    "needles": {
+      "needle-or-scale": [
+        "Needle-like"
+      ],
+      "needle-grouping": [
+        "Singly"
+      ],
+      "needle-emergence": [
+        "Spiral, but twisted to form a flat plane"
+      ],
+      "needle-length-bracket": [
+        "Under 2.5cm"
+      ],
+      "needle-base-type": [
+        "Decurrent"
+      ],
+      "needle-margin": [
+        "Entire"
+      ],
+      "needle-stiffness": [
+        "Stiff"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Dry or woody cones",
+        "No fruit"
+      ],
+      "flower-category": [
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    }
+  },
+  {
+    "id": "redwood-giant",
+    "names": {
+      "common": "Giant Redwood",
+      "scientific": "Sequoiadendron giganteum"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Needle-like",
+        "Scale-like"
+      ],
+      "leaf-arrangement": [
+        "Other"
+      ],
+      "leaf-margin": [
+        "Entire"
+      ],
+      "leaf-tip": [
+        "Pointed",
+        "Rounded"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm"
+      ]
+    },
+    "needles": {
+      "needle-or-scale": [
+        "Needle-like",
+        "Scale-like"
+      ],
+      "needle-grouping": [
+        "Singly",
+        "No needles"
+      ],
+      "needle-emergence": [
+        "Spiral",
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "Under 2.5cm",
+        "No needles"
+      ],
+      "needle-base-type": [
+        "Broad attachment",
+        "Decurrent",
+        "No needles"
+      ],
+      "needle-margin": [
+        "Entire",
+        "No needles"
+      ],
+      "needle-stiffness": [
+        "Stiff",
+        "No needles"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Dry or woody cones",
+        "No fruit"
+      ],
+      "flower-category": [
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    }
+  },
+  {
+    "id": "rowan-european",
+    "names": {
+      "common": "European Rowan",
+      "scientific": "Sorbus aucuparia",
+      "other": [
+        "Mountain Ash"
+      ]
+    },
+    "leaves": {
+      "leaf-type": [
+        "Compound"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Over 10cm"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "Odd-pinnate"
+      ],
+      "leaflet-count-bracket": [
+        "9 to 19"
+      ],
+      "leaflet-base": [
+        "Asymmetric"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Soft fruit or berries",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers with 5 petals",
+        "No flowers"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "service-tree",
+    "names": {
+      "common": "Service Tree",
+      "scientific": "Sorbus domestica"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Compound"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Over 10cm"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "Odd-pinnate"
+      ],
+      "leaflet-count-bracket": [
+        "11 to 21"
+      ],
+      "leaflet-base": [
+        "Symmetrical"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Soft fruit or berries",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers with 5 petals",
+        "No flowers"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "service-tree-wild",
+    "names": {
+      "common": "Wild Service Tree",
+      "scientific": "Sorbus torminalis"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Lobed"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "6 to 10cm",
+        "Over 10cm"
+      ]
+    },
+    "lobes": {
+      "lobe-count-bracket": [
+        "9 at most"
+      ],
+      "lobe-symmetry": [
+        "Symmetrical"
+      ],
+      "lobe-count": [
+        "Usually 5-9 lobes"
+      ],
+      "lobe-sinus-base": [
+        "Acute"
+      ],
+      "lobe-sinus-depth": [
+        "Less than halfway"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Soft fruit or berries",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers with 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "spruce-norway",
+    "names": {
+      "common": "Norway Spruce",
+      "scientific": "Picea abies"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Needle-like"
+      ],
+      "leaf-arrangement": [
+        "Other"
+      ],
+      "leaf-margin": [
+        "Entire"
+      ],
+      "leaf-tip": [
+        "Obtuse",
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm"
+      ]
+    },
+    "needles": {
+      "needle-or-scale": [
+        "Needle-like"
+      ],
+      "needle-grouping": [
+        "Singly"
+      ],
+      "needle-emergence": [
+        "Spiral"
+      ],
+      "needle-length-bracket": [
+        "Under 2.5cm"
+      ],
+      "needle-base-type": [
+        "Woody peg"
+      ],
+      "needle-margin": [
+        "Entire"
+      ],
+      "needle-stiffness": [
+        "Stiff"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Dry or woody cones",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    }
+  },
+  {
+    "id": "strawberry-tree",
+    "names": {
+      "common": "Strawberry Tree",
+      "scientific": "Arbutus unedo"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Obtuse",
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Soft fruit or berries",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "sycamore",
+    "names": {
+      "common": "Sycamore",
+      "scientific": "Acer pseudoplatanus"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Lobed"
+      ],
+      "leaf-arrangement": [
+        "Opposite"
+      ],
+      "leaf-margin": [
+        "Serrate",
+        "Dentate"
+      ],
+      "leaf-tip": [
+        "Pointed",
+        "Obtuse",
+        "Rounded"
+      ],
+      "leaf-length-bracket": [
+        "6 to 10cm",
+        "Over 10cm"
+      ]
+    },
+    "lobes": {
+      "lobe-count-bracket": [
+        "9 at most"
+      ],
+      "lobe-symmetry": [
+        "Symmetrical"
+      ],
+      "lobe-count": [
+        "Usually 3-5 lobes"
+      ],
+      "lobe-sinus-base": [
+        "Acute"
+      ],
+      "lobe-sinus-depth": [
+        "Less than halfway",
+        "About halfway"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Winged seeds",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "tamarisk-french",
+    "names": {
+      "common": "French Tamarisk",
+      "scientific": "Tamarix gallica",
+      "other": [
+        "Common Tamarisk"
+      ]
+    },
+    "leaves": {
+      "leaf-type": [
+        "Scale-like"
+      ],
+      "leaf-arrangement": [
+        "Other"
+      ],
+      "leaf-margin": [
+        "Entire"
+      ],
+      "leaf-tip": [
+        "Rounded"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm"
+      ]
+    },
+    "needles": {
+      "needle-or-scale": [
+        "Scale-like"
+      ],
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Nuts or capsules",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers with 5 petals",
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    }
+  },
+  {
+    "id": "whitebeam-common",
+    "names": {
+      "common": "Common Whitebeam",
+      "scientific": "Sorbus aria"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate",
+        "Dentate"
+      ],
+      "leaf-tip": [
+        "Obtuse",
+        "Rounded",
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "6 to 10cm",
+        "Over 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Soft fruit or berries",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers with 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "willow-almond-leaved",
+    "names": {
+      "common": "Almond-leaved Willow",
+      "scientific": "Salix triandra"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm",
+        "Over 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Downy seeds",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Catkins",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "willow-bay",
+    "names": {
+      "common": "Bay Willow",
+      "scientific": "Salix pentandra"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm",
+        "Over 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Downy seeds",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Catkins",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "willow-crack",
+    "names": {
+      "common": "Crack Willow",
+      "scientific": "Salix fragilis"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm",
+        "Over 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Downy seeds",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Catkins",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "willow-white",
+    "names": {
+      "common": "White Willow",
+      "scientific": "Salix alba"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Simple"
+      ],
+      "leaf-arrangement": [
+        "Alternate"
+      ],
+      "leaf-margin": [
+        "Serrate",
+        "Dentate"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "3 to 6cm",
+        "6 to 10cm"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Downy seeds",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Catkins",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    },
+    "needles": {
+      "needle-base-type": [
+        "No needles"
+      ],
+      "needle-emergence": [
+        "No needles"
+      ],
+      "needle-grouping": [
+        "No needles"
+      ],
+      "needle-length-bracket": [
+        "No needles"
+      ],
+      "needle-margin": [
+        "No needles"
+      ],
+      "needle-or-scale": [
+        "Neither"
+      ],
+      "needle-stiffness": [
+        "No needles"
+      ]
+    }
+  },
+  {
+    "id": "yew-european",
+    "names": {
+      "common": "European Yew",
+      "scientific": "Taxus baccata"
+    },
+    "leaves": {
+      "leaf-type": [
+        "Needle-like"
+      ],
+      "leaf-arrangement": [
+        "Other"
+      ],
+      "leaf-margin": [
+        "Entire"
+      ],
+      "leaf-tip": [
+        "Pointed"
+      ],
+      "leaf-length-bracket": [
+        "Up to 3cm",
+        "3 to 6cm"
+      ]
+    },
+    "needles": {
+      "needle-or-scale": [
+        "Needle-like"
+      ],
+      "needle-grouping": [
+        "Singly"
+      ],
+      "needle-emergence": [
+        "Spiral"
+      ],
+      "needle-length-bracket": [
+        "Up to 4cm"
+      ],
+      "needle-base-type": [
+        "Decurrent"
+      ],
+      "needle-margin": [
+        "Entire"
+      ],
+      "needle-stiffness": [
+        "Stiff"
+      ]
+    },
+    "tree": {
+      "fruit-category": [
+        "Soft fruit or berries",
+        "Dry or woody cones",
+        "No fruit"
+      ],
+      "flower-category": [
+        "Flowers without 5 petals",
+        "No flowers"
+      ]
+    },
+    "leaflets": {
+      "leaflet-arrangement": [
+        "No leaflets"
+      ],
+      "leaflet-base": [
+        "No leaflets"
+      ],
+      "leaflet-count-bracket": [
+        "No leaflets"
+      ]
+    },
+    "lobes": {
+      "lobe-count": [
+        "Not lobed"
+      ],
+      "lobe-count-bracket": [
+        "Not lobed"
+      ],
+      "lobe-sinus-base": [
+        "Not lobed"
+      ],
+      "lobe-sinus-depth": [
+        "Not lobed"
+      ],
+      "lobe-symmetry": [
+        "Not lobed"
+      ]
+    }
+  }
+]

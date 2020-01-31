@@ -1,0 +1,43 @@
+  {
+    "id": "needle-grouping",
+    "attribute": "needles",
+    "description": "Do the needles emerge from the twig singly, or in groups?",
+    "default": "No needles",
+    "filters": [
+      {
+        "id": "singly",
+        "type": "include",
+        "value": "Singly",
+        "button_label": "Singly",
+        "filter_label": "Needles emerge singly"
+      },
+      {
+        "id": "whorls-of-3",
+        "type": "include",
+        "value": "In whorls of 3",
+        "button_label": "In whorls of 3",
+        "filter_label": "Needles in whorls of 3"
+      },
+      {
+        "id": "singly-or-groups",
+        "type": "include",
+        "value": "Singly on some shoots, in large groups on others",
+        "button_label": "Singly on some shoots, in large groups on others",
+        "filter_label": "Needles single or in groups"
+      },
+      {
+        "id": "pairs",
+        "type": "include",
+        "value": "In pairs",
+        "button_label": "In pairs",
+        "filter_label": "Needles in pairs"
+      },
+      {
+        "id": "no-needles",
+        "type": "include",
+        "value": "No needles",
+        "button_label": "No needles",
+        "filter_label": "No needles"
+      }
+    ]
+  }

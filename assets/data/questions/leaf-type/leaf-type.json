@@ -1,0 +1,35 @@
+{
+  "id": "leaf-type",
+  "attribute": "leaves",
+  "description": "What is the general leaf shape?",
+  "filters": [
+    {
+      "id": "simple",
+      "type": "include",
+      "value": "Simple",
+      "button_label": "Simple",
+      "filter_label": "Simple leaves"
+    },
+    {
+      "id": "lobed",
+      "type": "include",
+      "value": "Lobed",
+      "button_label": "Lobed",
+      "filter_label": "Lobed leaves"
+    },
+    {
+      "id": "compound",
+      "type": "include",
+      "value": "Compound",
+      "button_label": "Compound",
+      "filter_label": "Compound leaves"
+    },
+    {
+      "id": "needle",
+      "type": "include",
+      "value": [ "Needle-like", "Scale-like" ],
+      "button_label": "Needle or scale-like",
+      "filter_label": "Needle or scale-like leaves"
+    }
+  ]
+}

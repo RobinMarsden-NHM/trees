@@ -1,0 +1,25 @@
+{
+  "id": "service-tree-wild",
+  "names": {
+    "common": "Wild Service Tree",
+    "scientific": "Sorbus torminalis"
+  },
+  "leaves": {
+    "leaf-type": "Lobed",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Serrate",
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": [ "6 to 10cm", "Over 10cm" ]
+  },
+  "lobes": {
+    "lobe-count-bracket": "9 at most",
+    "lobe-symmetry": "Symmetrical",
+    "lobe-count": "Usually 5-9 lobes",
+    "lobe-sinus-base": "Acute",
+    "lobe-sinus-depth": "Less than halfway"
+  },
+  "tree": {
+    "fruit-category": "Soft fruit or berries",
+    "flower-category": "Flowers with 5 petals"
+  }
+}

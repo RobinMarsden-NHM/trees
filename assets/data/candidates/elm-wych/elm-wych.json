@@ -1,0 +1,19 @@
+{
+  "id": "elm-wych",
+  "names": {
+    "common": "Wych Elm",
+    "scientific": "Ulmus glabra",
+    "other": [ "Dutch Elm" ]
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Serrate",
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": [ "3 to 6cm", "6 to 10cm", "Over 10cm" ]
+  },
+  "tree": {
+    "fruit-category": "Winged seeds",
+    "flower-category": "Flowers without 5 petals"
+  }
+}

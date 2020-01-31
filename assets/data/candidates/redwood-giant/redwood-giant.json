@@ -1,0 +1,26 @@
+{
+  "id": "redwood-giant",
+  "names": {
+    "common": "Giant Redwood",
+    "scientific": "Sequoiadendron giganteum"
+  },
+  "leaves": {
+    "leaf-type": [ "Needle-like", "Scale-like" ],
+    "leaf-arrangement": "Other",
+    "leaf-margin": "Entire",
+    "leaf-tip": [ "Pointed", "Rounded" ],
+    "leaf-length-bracket": [ "Up to 3cm" ]
+  },
+  "needles": {
+    "needle-or-scale": [ "Needle-like", "Scale-like" ],
+    "needle-grouping": [ "Singly", "No needles" ],
+    "needle-emergence": [ "Spiral", "No needles" ],
+    "needle-length-bracket": [ "Under 2.5cm", "No needles" ],
+    "needle-base-type": [ "Broad attachment", "Decurrent", "No needles" ],
+    "needle-margin": [ "Entire", "No needles" ],
+    "needle-stiffness": [ "Stiff", "No needles" ]
+  },
+  "tree": {
+    "fruit-category": "Dry or woody cones"
+  }
+}

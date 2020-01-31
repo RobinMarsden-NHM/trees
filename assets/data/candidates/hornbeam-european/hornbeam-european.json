@@ -1,0 +1,18 @@
+{
+  "id": "hornbeam-european",
+  "names": {
+    "common": "European Hornbeam",
+    "scientific": "Carpinus betulus"
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Serrate",
+    "leaf-tip": [ "Obtuse", "Pointed" ],
+    "leaf-length-bracket": [ "3 to 6cm", "6 to 10cm" ]
+  },
+  "tree": {
+    "fruit-category": "Nuts or capsules",
+    "flower-category": "Catkins"
+  }
+}

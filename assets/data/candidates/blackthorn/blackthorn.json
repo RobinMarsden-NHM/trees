@@ -1,0 +1,19 @@
+{
+  "id": "blackthorn",
+  "names": {
+    "common": "Blackthorn",
+    "scientific": "Prunus spinosa",
+    "other": [ "Sloe" ]
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": [ "Serrate", "Crenate" ],
+    "leaf-tip": [ "Obtuse", "Pointed" ],
+    "leaf-length-bracket": [ "Up to 3cm", "3 to 6cm" ]
+  },
+  "tree": {
+    "fruit-category": "Soft fruit or berries",
+    "flower-category": "Flowers with 5 petals"
+  }
+}

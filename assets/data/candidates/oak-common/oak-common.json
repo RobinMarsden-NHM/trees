@@ -1,0 +1,26 @@
+{
+  "id": "oak-common",
+  "names": {
+    "common": "Common Oak",
+    "scientific": "Quercus robur",
+    "other": [ "Pedunculate Oak" ]
+  },
+  "leaves": {
+    "leaf-type": "Lobed",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Entire",
+    "leaf-tip": "Rounded",
+    "leaf-length-bracket": [ "3 to 6cm", "6 to 10cm", "Over 10cm" ]
+  },
+  "lobes": {
+    "lobe-count-bracket": "Some have more than 9",
+    "lobe-symmetry": "Asymmetric",
+    "lobe-count": "Usually 7-15 lobes",
+    "lobe-sinus-base": "Rounded",
+    "lobe-sinus-depth": "About halfway"
+  },
+  "tree": {
+    "fruit-category": "Nuts or capsules",
+    "flower-category": "Catkins"
+  }
+}

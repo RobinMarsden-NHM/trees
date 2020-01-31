@@ -1,0 +1,18 @@
+{
+  "id": "cherry-bird",
+  "names": {
+    "common": "Bird Cherry",
+    "scientific": "Prunus padus"
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Serrate",
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": [ "3 to 6cm", "6 to 10cm", "Over 10cm" ]
+  },
+  "tree": {
+    "fruit-category": "Soft fruit or berries",
+    "flower-category": "Flowers with 5 petals"
+  }
+}

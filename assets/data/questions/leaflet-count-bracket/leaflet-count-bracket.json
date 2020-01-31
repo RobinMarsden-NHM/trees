@@ -1,0 +1,50 @@
+{
+  "id": "leaflet-count-bracket",
+  "attribute": "leaflets",
+  "description": "In general, how many leaflets do the leaves have?",
+  "default": "No leaflets",
+  "filters": [
+    {
+      "id": "5 - 7",
+      "type": "include",
+      "value": "5 to 7",
+      "button_label": "5 to 7 leaflets",
+      "filter_label": "5 to 7 leaflets"
+    },
+    {
+      "id": "7-11",
+      "type": "include",
+      "value": "7 to 11",
+      "button_label": "7 to 11 leaflets",
+      "filter_label": "7 to 11 leaflets"
+    },
+    {
+      "id": "7-15",
+      "type": "include",
+      "value": "7 to 15",
+      "button_label": "7 to 15 leaflets",
+      "filter_label": "7 to 15 leaflets"
+    },
+    {
+      "id": "9-19",
+      "type": "include",
+      "value": "9 to 19",
+      "button_label": "9 to 19 leaflets",
+      "filter_label": "9 to 19 leaflets"
+    },
+    {
+      "id": "11-21",
+      "type": "include",
+      "value": "11 to 21",
+      "button_label": "11 to 21 leaflets",
+      "filter_label": "11 to 21 leaflets"
+    },
+    {
+      "id": "no-leaflets",
+      "type": "include",
+      "value": "No leaflets",
+      "button_label": "No leaflets",
+      "filter_label": "No leaflets"
+    }
+  ]
+}

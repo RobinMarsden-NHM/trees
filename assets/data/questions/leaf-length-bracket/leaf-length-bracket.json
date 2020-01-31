@@ -1,0 +1,39 @@
+{
+  "id": "leaf-length-bracket",
+  "attribute": "leaves",
+  "description": "In general, how long are the adult leaves?",
+  "filters": [
+    {
+      "id": "up-to-3cm",
+      "type": "include",
+      "value": "Up to 3cm",
+      "button_label": "Up to 3cm",
+      "filter_label": "Leaves up to 3cm",
+      "icon": "leaf-type/simple.svg"
+    },
+    {
+      "id": "3-to-6cm",
+      "type": "include",
+      "value": "3 to 6cm",
+      "button_label": "3 to 6cm",
+      "filter_label": "Leaves 3 to 6cm",
+      "icon": "leaf-type/simple.svg"
+    },
+    {
+      "id": "6-to-10cm",
+      "type": "include",
+      "value": "6 to 10cm",
+      "button_label": "6 to 10cm",
+      "filter_label": "Leaves 6 to 10cm",
+      "icon": "leaf-type/simple.svg"
+    },
+    {
+      "id": "over-10cm",
+      "type": "include",
+      "value": "Over 10cm",
+      "button_label": "Over 10cm",
+      "filter_label": "Leaves over 10cm",
+      "icon": "leaf-type/simple.svg"
+    }
+  ]
+}

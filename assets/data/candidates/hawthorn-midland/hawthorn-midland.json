@@ -1,0 +1,25 @@
+{
+  "id": "hawthorn-midland",
+  "names": {
+    "common": "Midland Hawthorn",
+    "scientific": "Crataegus laevigata"
+  },
+  "leaves": {
+    "leaf-type": "Lobed",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Serrate",
+    "leaf-tip": [ "Obtuse", "Rounded" ],
+    "leaf-length-bracket": [ "Up to 3cm", "3 to 6cm" ]
+  },
+  "lobes": {
+    "lobe-count-bracket": "9 at most",
+    "lobe-symmetry": "Symmetrical",
+    "lobe-count": "Usually 3-5 lobes",
+    "lobe-sinus-base": "Acute",
+    "lobe-sinus-depth": "Less than halfway"
+  },
+  "tree": {
+    "fruit-category": "Soft fruit or berries",
+    "flower-category": "Flowers with 5 petals"
+  }
+}

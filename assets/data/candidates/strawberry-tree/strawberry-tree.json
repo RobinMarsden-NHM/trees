@@ -1,0 +1,18 @@
+{
+  "id": "strawberry-tree",
+  "names": {
+    "common": "Strawberry Tree",
+    "scientific": "Arbutus unedo"
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Serrate",
+    "leaf-tip": [ "Obtuse", "Pointed" ],
+    "leaf-length-bracket": [ "3 to 6cm", "6 to 10cm" ]
+  },
+  "tree": {
+    "fruit-category": "Soft fruit or berries",
+    "flower-category": "Flowers without 5 petals"
+  }
+}

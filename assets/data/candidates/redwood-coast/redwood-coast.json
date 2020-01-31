@@ -1,0 +1,26 @@
+{
+  "id": "redwood-coast",
+  "names": {
+    "common": "Coast Redwood",
+    "scientific": "Sequoia sempervirens"
+  },
+  "leaves": {
+    "leaf-type": "Needle-like",
+    "leaf-arrangement": "Other",
+    "leaf-margin": "Entire",
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": [ "Up to 3cm" ]
+  },
+  "needles": {
+    "needle-or-scale": "Needle-like",
+    "needle-grouping": "Singly",
+    "needle-emergence": "Spiral, but twisted to form a flat plane",
+    "needle-length-bracket": "Under 2.5cm",
+    "needle-base-type": "Decurrent",
+    "needle-margin": "Entire",
+    "needle-stiffness": "Stiff"
+  },
+  "tree": {
+    "fruit-category": "Dry or woody cones"
+  }
+}

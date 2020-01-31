@@ -1,0 +1,42 @@
+{
+  "id": "leaf-margin",
+  "attribute": "leaves",
+  "description": "Which of these best describes the 'margin' around the edge of the leaf?",
+  "filters": [
+    {
+      "id": "entire",
+      "type": "include",
+      "value": "Entire",
+      "button_label": "Entire",
+      "filter_label": "Margins entire"
+    },
+    {
+      "id": "serrate",
+      "type": "include",
+      "value": "Serrate",
+      "button_label": "Serrate",
+      "filter_label": "Margins serrate"
+    },
+    {
+      "id": "dentate",
+      "type": "include",
+      "value": "Dentate",
+      "button_label": "Dentate",
+      "filter_label": "Margins dentate"
+    },
+    {
+      "id": "crenate",
+      "type": "include",
+      "value": "Crenate",
+      "button_label": "Crenate",
+      "filter_label": "Margins crenate"
+    },
+    {
+      "id": "spiny",
+      "type": "include",
+      "value": "Spiny",
+      "button_label": "Spiny",
+      "filter_label": "Margins have spines"
+    }
+  ]
+}

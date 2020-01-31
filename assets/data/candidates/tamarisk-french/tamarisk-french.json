@@ -1,0 +1,22 @@
+{
+  "id": "tamarisk-french",
+  "names": {
+    "common": "French Tamarisk",
+    "scientific": "Tamarix gallica",
+    "other": [ "Common Tamarisk" ]
+  },
+  "leaves": {
+    "leaf-type": "Scale-like",
+    "leaf-arrangement": "Other",
+    "leaf-margin": "Entire",
+    "leaf-tip": "Rounded",
+    "leaf-length-bracket": "Up to 3cm"
+  },
+  "needles": {
+    "needle-or-scale": "Scale-like"
+  },
+  "tree": {
+    "fruit-category": "Nuts or capsules",
+    "flower-category": [ "Flowers with 5 petals", "Flowers without 5 petals" ]
+  }
+}

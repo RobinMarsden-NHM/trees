@@ -1,0 +1,21 @@
+{
+  "id": "leylandii",
+  "names": {
+    "common": "Leyland cypress",
+    "scientific": "Cupressus × leylandii",
+    "other": [ "Leylandii" ]
+  },
+  "leaves": {
+    "leaf-type": "Scale-like",
+    "leaf-arrangement": "Other",
+    "leaf-margin": "Entire",
+    "leaf-tip": "Rounded",
+    "leaf-length-bracket": "Up to 3cm"
+  },
+  "needles": {
+    "needle-or-scale": "Scale-like"
+  },
+  "tree": {
+    "fruit-category": "Dry or woody cones"
+  }
+}

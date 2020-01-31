@@ -1,0 +1,21 @@
+{
+  "id": "monkey-puzzle",
+  "names": {
+    "common": "Monkey Puzzle",
+    "scientific": "Araucaria araucana"
+  },
+  "leaves": {
+    "leaf-type": "Scale-like",
+    "leaf-arrangement": "Other",
+    "leaf-margin": [ "Entire", "Spiny" ],
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": [ "Up to 3cm", "3 to 6cm" ]
+  },
+  "needles": {
+    "needle-or-scale": "Scale-like"
+  },
+  "tree": {
+    "fruit-category": "Dry or woody cones",
+    "flower-category": "Flowers without 5 petals"
+  }
+}

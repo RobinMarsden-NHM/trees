@@ -1,0 +1,18 @@
+{
+  "id": "beech-european",
+  "names": {
+    "common": "European Beech",
+    "scientific": "Fagus sylvatica"
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Entire",
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": [ "3 to 6cm", "6 to 10cm" ]
+  },
+  "tree": {
+    "fruit-category": "Nuts or capsules",
+    "flower-category": "Catkins"
+  }
+}

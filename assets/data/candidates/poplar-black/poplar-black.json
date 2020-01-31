@@ -1,0 +1,18 @@
+{
+  "id": "poplar-black",
+  "names": {
+    "common": "Black Poplar",
+    "scientific": "Populus nigra"
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": [ "Serrate", "Dentate" ],
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": [ "3 to 6cm", "6 to 10cm" ]
+  },
+  "tree": {
+    "fruit-category": [ "Downy seeds", "Nuts or capsules" ],
+    "flower-category": "Catkins"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "leaflet-base",
+  "attribute": "leaflets",
+  "description": "Are the bases of the leaflets noticeably asymmetric where they join the main stem?",
+  "default": "No leaflets",
+  "filters": [
+    {
+      "id": "symmetrical",
+      "type": "include",
+      "value": "Symmetrical",
+      "button_label": "Bases are generally symmetrical",
+      "filter_label": "Symmetrical leaflet bases"
+    },
+    {
+      "id": "asymmetric",
+      "type": "include",
+      "value": "Asymmetric",
+      "button_label": "Bases are noticeably asymmetric",
+      "filter_label": "Asymmetric leaflet bases"
+    },
+    {
+      "id": "No leaflets",
+      "type": "include",
+      "value": "No leaflets",
+      "button_label": "No leaflets",
+      "filter_label": "No leaflets"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "whitebeam-common",
+  "names": {
+    "common": "Common Whitebeam",
+    "scientific": "Sorbus aria"
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": [ "Serrate", "Dentate" ],
+    "leaf-tip": [ "Obtuse", "Rounded", "Pointed" ],
+    "leaf-length-bracket": [ "6 to 10cm", "Over 10cm" ]
+  },
+  "tree": {
+    "fruit-category": "Soft fruit or berries",
+    "flower-category": "Flowers with 5 petals"
+  }
+}

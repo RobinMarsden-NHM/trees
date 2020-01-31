@@ -1,0 +1,36 @@
+{
+  "id": "needle-length-bracket",
+  "attribute": "needles",
+  "description": "In general, how long are the adult needles?",
+  "default": "No needles",
+  "filters": [
+    {
+      "id": "under-2.5cm",
+      "type": "include",
+      "value": "Under 2.5cm",
+      "button_label": "Under 2.5cm",
+      "filter_label": "Needles under 2.5cm"
+    },
+    {
+      "id": "up-to-4cm",
+      "type": "include",
+      "value": "Up to 4cm",
+      "button_label": "Up to 4cm",
+      "filter_label": "Needles up to 4cm"
+    },
+    {
+      "id": "over-4cm",
+      "type": "include",
+      "value": "Over 4cm",
+      "button_label": "Over 4cm",
+      "filter_label": "Needles over 4cm"
+    },
+    {
+      "id": "no-needles",
+      "type": "include",
+      "value": "No needles",
+      "button_label": "No needles",
+      "filter_label": "No needles"
+    }
+  ]
+}

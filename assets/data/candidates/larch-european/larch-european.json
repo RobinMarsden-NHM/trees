@@ -1,0 +1,27 @@
+{
+  "id": "larch-european",
+  "names": {
+    "common": "European Larch",
+    "scientific": "Larix decidua"
+  },
+  "leaves": {
+    "leaf-type": "Needle-like",
+    "leaf-arrangement": "Other",
+    "leaf-margin": "Entire",
+    "leaf-tip": [ "Obtuse", "Pointed" ],
+    "leaf-length-bracket": [ "Up to 3cm", "3 to 6cm" ]
+  },
+  "needles": {
+    "needle-or-scale": "Needle-like",
+    "needle-grouping": "Singly on some shoots, in large groups on others",
+    "needle-emergence": "Spiral",
+    "needle-length-bracket": "Up to 4cm",
+    "needle-base-type": "Woody peg",
+    "needle-margin": "Entire",
+    "needle-stiffness": "Soft"
+  },
+  "tree": {
+    "fruit-category": "Dry or woody cones",
+    "flower-category": "Flowers without 5 petals"
+  }
+}

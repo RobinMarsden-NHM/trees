@@ -1,0 +1,20 @@
+@import 'scss/variables.scss';
+
+@font-face {
+	font-family: "elysio-regular";
+	src: url("#{$font-dir}elysio-regular.woff") format("woff");
+}
+
+h1, h2, h3, h4, button > a {
+	font-family: $font-elysio;
+	// margin: 0;
+}
+
+h5, h6, p, span, a, li {
+	font-family: Arial, Helvetica, sans-serif;
+	// margin: 0;
+}
+
+.margin-top {
+	margin-top: 0.5rem;
+}

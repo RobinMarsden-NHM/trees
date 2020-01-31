@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "flower-category",
+    "attribute": "tree",
+    "description": "Can you see any flowers or catkins on the tree?",
+    "common": "No flowers",
+    "filters": [
+      {
+        "id": "catkins",
+        "type": "include",
+        "value": [
+          "Catkins"
+        ],
+        "button_label": "Catkins",
+        "filter_label": "Catkins",
+        "questionId": "flower-category",
+        "attribute": "tree"
+      },
+      {
+        "id": "flowers-5-petals",
+        "type": "include",
+        "value": [
+          "Flowers with 5 petals"
+        ],
+        "button_label": "Flowers with 5 obvious petals",
+        "filter_label": "Flowers with 5 petals",
+        "questionId": "flower-category",
+        "attribute": "tree"
+      },
+      {
+        "id": "flowers-without-5-petals",
+        "type": "include",
+        "value": [
+          "Flowers without 5 petals"
+        ],
+        "button_label": "Flowers without 5 obvious petals",
+        "filter_label": "Flowers without 5 petals",
+        "questionId": "flower-category",
+        "attribute": "tree"
+      },
+      {
+        "id": "no-flowers",
+        "type": "include",
+        "value": [
+          "No flowers"
+        ],
+        "button_label": "No flowers or catkins",
+        "filter_label": "No flowers or catkins",
+        "questionId": "flower-category",
+        "attribute": "tree"
+      }
+    ]
+  },
+  {
+    "id": "fruit-category",
+    "attribute": "tree",
+    "description": "Can you see any fruit, berries, nuts or seeds on the tree?",
+    "common": "No fruit",
+    "filters": [
+      {
+        "id": "soft-fruit",
+        "type": "include",
+        "value": [
+          "Soft fruit or berries"
+        ],
+        "button_label": "Soft fruit or berries",
+        "filter_label": "Soft fruit or berries",
+        "questionId": "fruit-category",
+        "attribute": "tree"
+      },
+      {
+        "id": "dry-cones",
+        "type": "include",
+        "value": [
+          "Dry or woody cones"
+        ],
+        "button_label": "Dry or woody cones",
+        "filter_label": "Dry or woody cones",
+        "questionId": "fruit-category",
+        "attribute": "tree"
+      },
+      {
+        "id": "nut-or-capsule",
+        "type": "include",
+        "value": [
+          "Nuts or capsules"
+        ],
+        "button_label": "Nuts or capsules",
+        "filter_label": "Nuts or capsules",
+        "questionId": "fruit-category",
+        "attribute": "tree"
+      },
+      {
+        "id": "winged-seeds",
+        "type": "include",
+        "value": [
+          "Winged seeds"
+        ],
+        "button_label": "Winged seeds",
+        "filter_label": "Winged seeds",
+        "questionId": "fruit-category",
+        "attribute": "tree"
+      },
+      {
+        "id": "downy-seeds",
+        "type": "include",
+        "value": [
+          "Downy seeds"
+        ],
+        "button_label": "Downy seeds",
+        "filter_label": "Downy seeds",
+        "questionId": "fruit-category",
+        "attribute": "tree"
+      },
+      {
+        "id": "no-fruit",
+        "type": "include",
+        "value": [
+          "No fruit"
+        ],
+        "button_label": "No fruit or seeds",
+        "filter_label": "No fruit or seeds",
+        "questionId": "fruit-category",
+        "attribute": "tree"
+      }
+    ]
+  },
+  {
+    "id": "leaf-arrangement",
+    "attribute": "leaves",
+    "description": "How are the leaves arranged along the stem?",
+    "filters": [
+      {
+        "id": "alternate",
+        "type": "include",
+        "value": [
+          "Alternate"
+        ],
+        "button_label": "Individual leaves alternating",
+        "filter_label": "Leaves alternate",
+        "questionId": "leaf-arrangement",
+        "attribute": "leaves"
+      },
+      {
+        "id": "opposite",
+        "type": "include",
+        "value": [
+          "Opposite"
+        ],
+        "button_label": "Leaves in opposite pairs",
+        "filter_label": "Leaves opposite",
+        "questionId": "leaf-arrangement",
+        "attribute": "leaves"
+      },
+      {
+        "id": "other",
+        "type": "include",
+        "value": [
+          "Other"
+        ],
+        "button_label": "Unclear or other",
+        "filter_label": "Unclear arrangement",
+        "questionId": "leaf-arrangement",
+        "attribute": "leaves"
+      }
+    ]
+  },
+  {
+    "id": "leaf-length-bracket",
+    "attribute": "leaves",
+    "description": "In general, how long are the adult leaves?",
+    "filters": [
+      {
+        "id": "up-to-3cm",
+        "type": "include",
+        "value": [
+          "Up to 3cm"
+        ],
+        "button_label": "Up to 3cm",
+        "filter_label": "Leaves up to 3cm",
+        "icon": "leaf-type/simple.svg",
+        "questionId": "leaf-length-bracket",
+        "attribute": "leaves"
+      },
+      {
+        "id": "3-to-6cm",
+        "type": "include",
+        "value": [
+          "3 to 6cm"
+        ],
+        "button_label": "3 to 6cm",
+        "filter_label": "Leaves 3 to 6cm",
+        "icon": "leaf-type/simple.svg",
+        "questionId": "leaf-length-bracket",
+        "attribute": "leaves"
+      },
+      {
+        "id": "6-to-10cm",
+        "type": "include",
+        "value": [
+          "6 to 10cm"
+        ],
+        "button_label": "6 to 10cm",
+        "filter_label": "Leaves 6 to 10cm",
+        "icon": "leaf-type/simple.svg",
+        "questionId": "leaf-length-bracket",
+        "attribute": "leaves"
+      },
+      {
+        "id": "over-10cm",
+        "type": "include",
+        "value": [
+          "Over 10cm"
+        ],
+        "button_label": "Over 10cm",
+        "filter_label": "Leaves over 10cm",
+        "icon": "leaf-type/simple.svg",
+        "questionId": "leaf-length-bracket",
+        "attribute": "leaves"
+      }
+    ]
+  },
+  {
+    "id": "leaf-margin",
+    "attribute": "leaves",
+    "description": "Which of these best describes the 'margin' around the edge of the leaf?",
+    "filters": [
+      {
+        "id": "entire",
+        "type": "include",
+        "value": [
+          "Entire"
+        ],
+        "button_label": "Entire",
+        "filter_label": "Margins entire",
+        "questionId": "leaf-margin",
+        "attribute": "leaves"
+      },
+      {
+        "id": "serrate",
+        "type": "include",
+        "value": [
+          "Serrate"
+        ],
+        "button_label": "Serrate",
+        "filter_label": "Margins serrate",
+        "questionId": "leaf-margin",
+        "attribute": "leaves"
+      },
+      {
+        "id": "dentate",
+        "type": "include",
+        "value": [
+          "Dentate"
+        ],
+        "button_label": "Dentate",
+        "filter_label": "Margins dentate",
+        "questionId": "leaf-margin",
+        "attribute": "leaves"
+      },
+      {
+        "id": "crenate",
+        "type": "include",
+        "value": [
+          "Crenate"
+        ],
+        "button_label": "Crenate",
+        "filter_label": "Margins crenate",
+        "questionId": "leaf-margin",
+        "attribute": "leaves"
+      },
+      {
+        "id": "spiny",
+        "type": "include",
+        "value": [
+          "Spiny"
+        ],
+        "button_label": "Spiny",
+        "filter_label": "Margins have spines",
+        "questionId": "leaf-margin",
+        "attribute": "leaves"
+      }
+    ]
+  },
+  {
+    "id": "leaf-tip",
+    "attribute": "leaves",
+    "description": "Which of these best describes the tip of the leaf?",
+    "filters": [
+      {
+        "id": "Pointed",
+        "type": "include",
+        "value": [
+          "Pointed"
+        ],
+        "button_label": "Pointed",
+        "filter_label": "Leaves pointed",
+        "questionId": "leaf-tip",
+        "attribute": "leaves"
+      },
+      {
+        "id": "Rounded",
+        "type": "include",
+        "value": [
+          "Rounded"
+        ],
+        "button_label": "Rounded",
+        "filter_label": "Leaf tips rounded",
+        "questionId": "leaf-tip",
+        "attribute": "leaves"
+      },
+      {
+        "id": "Indented",
+        "type": "include",
+        "value": [
+          "Indented"
+        ],
+        "button_label": "Indented",
+        "filter_label": "Leaf tips indented",
+        "questionId": "leaf-tip",
+        "attribute": "leaves"
+      },
+      {
+        "id": "Obtuse",
+        "type": "include",
+        "value": [
+          "Obtuse"
+        ],
+        "button_label": "Obtuse",
+        "filter_label": "Leaf tips obtuse",
+        "questionId": "leaf-tip",
+        "attribute": "leaves"
+      }
+    ]
+  },
+  {
+    "id": "leaf-type",
+    "attribute": "leaves",
+    "description": "What is the general leaf shape?",
+    "filters": [
+      {
+        "id": "simple",
+        "type": "include",
+        "value": [
+          "Simple"
+        ],
+        "button_label": "Simple",
+        "filter_label": "Simple leaves",
+        "questionId": "leaf-type",
+        "attribute": "leaves"
+      },
+      {
+        "id": "lobed",
+        "type": "include",
+        "value": [
+          "Lobed"
+        ],
+        "button_label": "Lobed",
+        "filter_label": "Lobed leaves",
+        "questionId": "leaf-type",
+        "attribute": "leaves"
+      },
+      {
+        "id": "compound",
+        "type": "include",
+        "value": [
+          "Compound"
+        ],
+        "button_label": "Compound",
+        "filter_label": "Compound leaves",
+        "questionId": "leaf-type",
+        "attribute": "leaves"
+      },
+      {
+        "id": "needle",
+        "type": "include",
+        "value": [
+          "Needle-like",
+          "Scale-like"
+        ],
+        "button_label": "Needle or scale-like",
+        "filter_label": "Needle or scale-like leaves",
+        "questionId": "leaf-type",
+        "attribute": "leaves"
+      }
+    ]
+  },
+  {
+    "id": "leaflet-arrangement",
+    "attribute": "leaflets",
+    "description": "How are the leaflets arranged around the main stem?",
+    "default": "No leaflets",
+    "filters": [
+      {
+        "id": "odd-pinnate",
+        "type": "include",
+        "value": [
+          "Odd-pinnate"
+        ],
+        "button_label": "Odd-pinnate",
+        "filter_label": "Odd-pinnate leaflets",
+        "questionId": "leaflet-arrangement",
+        "attribute": "leaflets"
+      },
+      {
+        "id": "palmate",
+        "type": "include",
+        "value": [
+          "Palmate"
+        ],
+        "button_label": "Palmate",
+        "filter_label": "Palmate leaflets",
+        "questionId": "leaflet-arrangement",
+        "attribute": "leaflets"
+      },
+      {
+        "id": "No leaflets",
+        "type": "include",
+        "value": [
+          "No leaflets"
+        ],
+        "button_label": "No leaflets",
+        "filter_label": "No leaflets",
+        "questionId": "leaflet-arrangement",
+        "attribute": "leaflets"
+      }
+    ]
+  },
+  {
+    "id": "leaflet-base",
+    "attribute": "leaflets",
+    "description": "Are the bases of the leaflets noticeably asymmetric where they join the main stem?",
+    "default": "No leaflets",
+    "filters": [
+      {
+        "id": "symmetrical",
+        "type": "include",
+        "value": [
+          "Symmetrical"
+        ],
+        "button_label": "Bases are generally symmetrical",
+        "filter_label": "Symmetrical leaflet bases",
+        "questionId": "leaflet-base",
+        "attribute": "leaflets"
+      },
+      {
+        "id": "asymmetric",
+        "type": "include",
+        "value": [
+          "Asymmetric"
+        ],
+        "button_label": "Bases are noticeably asymmetric",
+        "filter_label": "Asymmetric leaflet bases",
+        "questionId": "leaflet-base",
+        "attribute": "leaflets"
+      },
+      {
+        "id": "No leaflets",
+        "type": "include",
+        "value": [
+          "No leaflets"
+        ],
+        "button_label": "No leaflets",
+        "filter_label": "No leaflets",
+        "questionId": "leaflet-base",
+        "attribute": "leaflets"
+      }
+    ]
+  },
+  {
+    "id": "leaflet-count-bracket",
+    "attribute": "leaflets",
+    "description": "In general, how many leaflets do the leaves have?",
+    "default": "No leaflets",
+    "filters": [
+      {
+        "id": "5 - 7",
+        "type": "include",
+        "value": [
+          "5 to 7"
+        ],
+        "button_label": "5 to 7 leaflets",
+        "filter_label": "5 to 7 leaflets",
+        "questionId": "leaflet-count-bracket",
+        "attribute": "leaflets"
+      },
+      {
+        "id": "7-11",
+        "type": "include",
+        "value": [
+          "7 to 11"
+        ],
+        "button_label": "7 to 11 leaflets",
+        "filter_label": "7 to 11 leaflets",
+        "questionId": "leaflet-count-bracket",
+        "attribute": "leaflets"
+      },
+      {
+        "id": "7-15",
+        "type": "include",
+        "value": [
+          "7 to 15"
+        ],
+        "button_label": "7 to 15 leaflets",
+        "filter_label": "7 to 15 leaflets",
+        "questionId": "leaflet-count-bracket",
+        "attribute": "leaflets"
+      },
+      {
+        "id": "9-19",
+        "type": "include",
+        "value": [
+          "9 to 19"
+        ],
+        "button_label": "9 to 19 leaflets",
+        "filter_label": "9 to 19 leaflets",
+        "questionId": "leaflet-count-bracket",
+        "attribute": "leaflets"
+      },
+      {
+        "id": "11-21",
+        "type": "include",
+        "value": [
+          "11 to 21"
+        ],
+        "button_label": "11 to 21 leaflets",
+        "filter_label": "11 to 21 leaflets",
+        "questionId": "leaflet-count-bracket",
+        "attribute": "leaflets"
+      },
+      {
+        "id": "no-leaflets",
+        "type": "include",
+        "value": [
+          "No leaflets"
+        ],
+        "button_label": "No leaflets",
+        "filter_label": "No leaflets",
+        "questionId": "leaflet-count-bracket",
+        "attribute": "leaflets"
+      }
+    ]
+  },
+  {
+    "id": "lobe-count",
+    "attribute": "lobes",
+    "description": "How many lobes do the leaves tend to have?",
+    "default": "Not lobed",
+    "filters": [
+      {
+        "id": "3-5-lobes",
+        "type": "include",
+        "value": [
+          "Usually 3-5 lobes"
+        ],
+        "button_label": "Usually 3-5 lobes",
+        "filter_label": "Leaves usually have 3-5 lobes",
+        "questionId": "lobe-count",
+        "attribute": "lobes"
+      },
+      {
+        "id": "5-lobes",
+        "type": "include",
+        "value": [
+          "Usually 5 lobes"
+        ],
+        "button_label": "Usually 5 lobes",
+        "filter_label": "Leaves usually have 5 lobes",
+        "questionId": "lobe-count",
+        "attribute": "lobes"
+      },
+      {
+        "id": "5-7-lobes",
+        "type": "include",
+        "value": [
+          "Usually 5-7 lobes"
+        ],
+        "button_label": "Usually 5-7 lobes",
+        "filter_label": "Leaves usually have 5-7 lobes",
+        "questionId": "lobe-count",
+        "attribute": "lobes"
+      },
+      {
+        "id": "5-9-lobes",
+        "type": "include",
+        "value": [
+          "Usually 5-9 lobes"
+        ],
+        "button_label": "Usually 5-9 lobes",
+        "filter_label": "Leaves usually have 5-9 lobes",
+        "questionId": "lobe-count",
+        "attribute": "lobes"
+      },
+      {
+        "id": "7-15-lobes",
+        "type": "include",
+        "value": [
+          "Usually 7-15 lobes"
+        ],
+        "button_label": "Usually 7-15 lobes",
+        "filter_label": "Leaves usually have 7-15 lobes",
+        "questionId": "lobe-count",
+        "attribute": "lobes"
+      },
+      {
+        "id": "11-19-lobes",
+        "type": "include",
+        "value": [
+          "Usually 11-19 lobes"
+        ],
+        "button_label": "Usually 11-19 lobes",
+        "filter_label": "Leaves usually have 11-19 lobes",
+        "questionId": "lobe-count",
+        "attribute": "lobes"
+      },
+      {
+        "id": "not-lobed",
+        "type": "include",
+        "value": [
+          "Not lobed"
+        ],
+        "button_label": "Not lobed",
+        "filter_label": "Not lobed",
+        "questionId": "lobe-count",
+        "attribute": "lobes"
+      }
+    ]
+  },
+  {
+    "id": "lobe-count-bracket",
+    "attribute": "lobes",
+    "description": "In general, how many distinct lobes does a leaf have?",
+    "default": "Not lobed",
+    "filters": [
+      {
+        "id": "9-at-most",
+        "type": "include",
+        "value": [
+          "9 at most"
+        ],
+        "button_label": "9 at most",
+        "filter_label": "9 lobes at most",
+        "questionId": "lobe-count-bracket",
+        "attribute": "lobes"
+      },
+      {
+        "id": "some-over-9",
+        "type": "include",
+        "value": [
+          "Some have more than 9"
+        ],
+        "button_label": "Some have more than 9",
+        "filter_label": "Some leaves have more than 9 lobes",
+        "questionId": "lobe-count-bracket",
+        "attribute": "lobes"
+      },
+      {
+        "id": "not-lobed",
+        "type": "include",
+        "value": [
+          "Not lobed"
+        ],
+        "button_label": "Not lobed",
+        "filter_label": "Not lobed",
+        "questionId": "lobe-count-bracket",
+        "attribute": "lobes"
+      }
+    ]
+  },
+  {
+    "id": "lobe-sinus-base",
+    "attribute": "lobes",
+    "description": "Which of these best describes the shape of the base of the sinuses between each leaf lobe?",
+    "default": "Not lobed",
+    "filters": [
+      {
+        "id": "rounded",
+        "type": "include",
+        "value": [
+          "Rounded"
+        ],
+        "button_label": "Rounded",
+        "filter_label": "Lobe sinuses rounded",
+        "questionId": "lobe-sinus-base",
+        "attribute": "lobes"
+      },
+      {
+        "id": "acute",
+        "type": "include",
+        "value": [
+          "Acute"
+        ],
+        "button_label": "Acutely angled",
+        "filter_label": "Lobe sinuses acute",
+        "questionId": "lobe-sinus-base",
+        "attribute": "lobes"
+      },
+      {
+        "id": "not-lobed",
+        "type": "include",
+        "value": [
+          "Not lobed"
+        ],
+        "button_label": "Not lobed",
+        "filter_label": "Not lobed",
+        "questionId": "lobe-sinus-base",
+        "attribute": "lobes"
+      }
+    ]
+  },
+  {
+    "id": "lobe-sinus-depth",
+    "attribute": "lobes",
+    "description": "In general, how far do the sinuses between the lobes reach towards the leaf midrib?",
+    "default": "Not lobed",
+    "filters": [
+      {
+        "id": "shallow",
+        "type": "include",
+        "value": [
+          "Less than halfway"
+        ],
+        "button_label": "Less than halfway",
+        "filter_label": "Shallow lobe sinuses",
+        "questionId": "lobe-sinus-depth",
+        "attribute": "lobes"
+      },
+      {
+        "id": "halfway",
+        "type": "include",
+        "value": [
+          "About halfway"
+        ],
+        "button_label": "About halfway",
+        "filter_label": "Lobe sinuses halfway to midrib",
+        "questionId": "lobe-sinus-depth",
+        "attribute": "lobes"
+      },
+      {
+        "id": "deep",
+        "type": "include",
+        "value": [
+          "Nearly all the way"
+        ],
+        "button_label": "Nearly all the way",
+        "filter_label": "Deep lobe sinuses",
+        "questionId": "lobe-sinus-depth",
+        "attribute": "lobes"
+      },
+      {
+        "id": "Not lobed",
+        "type": "include",
+        "value": [
+          "Not lobed"
+        ],
+        "button_label": "Not lobed",
+        "filter_label": "Not lobed",
+        "questionId": "lobe-sinus-depth",
+        "attribute": "lobes"
+      }
+    ]
+  },
+  {
+    "id": "lobe-symmetry",
+    "attribute": "lobes",
+    "description": "Are the lobes on each side of the leaf generally symmetrical?",
+    "default": "Not lobed",
+    "filters": [
+      {
+        "id": "symmetrical",
+        "type": "include",
+        "value": [
+          "Symmetrical"
+        ],
+        "button_label": "Lobes are symmetrical",
+        "filter_label": "Lobes symmetrical",
+        "questionId": "lobe-symmetry",
+        "attribute": "lobes"
+      },
+      {
+        "id": "asymmetric",
+        "type": "include",
+        "value": [
+          "Asymmetric"
+        ],
+        "button_label": "Lobes are asymmetric",
+        "filter_label": "Lobes asymmetric",
+        "questionId": "lobe-symmetry",
+        "attribute": "lobes"
+      },
+      {
+        "id": "Not lobed",
+        "type": "include",
+        "value": [
+          "Not lobed"
+        ],
+        "button_label": "Not lobed",
+        "filter_label": "Not lobed",
+        "questionId": "lobe-symmetry",
+        "attribute": "lobes"
+      }
+    ]
+  },
+  {
+    "id": "needle-base-type",
+    "attribute": "needles",
+    "description": "What best describes the needle's attachment to the twig?",
+    "default": "No needles",
+    "filters": [
+      {
+        "id": "suction-cup",
+        "type": "include",
+        "value": [
+          "Suction cup"
+        ],
+        "button_label": "Like a suction cup",
+        "filter_label": "Needles with suction cup attachment",
+        "questionId": "needle-base-type",
+        "attribute": "needles"
+      },
+      {
+        "id": "woody-peg",
+        "type": "include",
+        "value": [
+          "Woody peg"
+        ],
+        "button_label": "With a woody peg structure",
+        "filter_label": "Needles attached to woody pegs",
+        "questionId": "needle-base-type",
+        "attribute": "needles"
+      },
+      {
+        "id": "broad",
+        "type": "include",
+        "value": [
+          "Broad attachment"
+        ],
+        "button_label": "Broad based needles emerge directly from the twig",
+        "filter_label": "Needles attached directly to twig",
+        "questionId": "needle-base-type",
+        "attribute": "needles"
+      },
+      {
+        "id": "decurrent",
+        "type": "include",
+        "value": [
+          "Decurrent"
+        ],
+        "button_label": "Needles bases are decurrent to the twig",
+        "filter_label": "Needles are decurrent",
+        "questionId": "needle-base-type",
+        "attribute": "needles"
+      },
+      {
+        "id": "no-needles",
+        "type": "include",
+        "value": [
+          "No needles"
+        ],
+        "button_label": "No needles",
+        "filter_label": "No needles",
+        "questionId": "needle-base-type",
+        "attribute": "needles"
+      }
+    ]
+  },
+  {
+    "id": "needle-emergence",
+    "attribute": "needles",
+    "description": "What best describes the way needles emerge from the twig?",
+    "default": "No needles",
+    "filters": [
+      {
+        "id": "spiral",
+        "type": "include",
+        "value": [
+          "Spiral"
+        ],
+        "button_label": "Spirally around the twig",
+        "filter_label": "Needles emerge spirally",
+        "questionId": "needle-emergence",
+        "attribute": "needles"
+      },
+      {
+        "id": "spiral-flat",
+        "type": "include",
+        "value": [
+          "Spiral, but twisted to form a flat plane"
+        ],
+        "button_label": "Spirally, but twisted to form a flat plane",
+        "filter_label": "Needles emerge spirally but are twisted flat",
+        "questionId": "needle-emergence",
+        "attribute": "needles"
+      },
+      {
+        "id": "no-needles",
+        "type": "include",
+        "value": [
+          "No needles"
+        ],
+        "button_label": "No needles",
+        "filter_label": "No needles",
+        "questionId": "needle-emergence",
+        "attribute": "needles"
+      }
+    ]
+  },
+  {
+    "id": "needle-grouping",
+    "attribute": "needles",
+    "description": "Do the needles emerge from the twig singly, or in groups?",
+    "default": "No needles",
+    "filters": [
+      {
+        "id": "singly",
+        "type": "include",
+        "value": [
+          "Singly"
+        ],
+        "button_label": "Singly",
+        "filter_label": "Needles emerge singly",
+        "questionId": "needle-grouping",
+        "attribute": "needles"
+      },
+      {
+        "id": "whorls-of-3",
+        "type": "include",
+        "value": [
+          "In whorls of 3"
+        ],
+        "button_label": "In whorls of 3",
+        "filter_label": "Needles in whorls of 3",
+        "questionId": "needle-grouping",
+        "attribute": "needles"
+      },
+      {
+        "id": "singly-or-groups",
+        "type": "include",
+        "value": [
+          "Singly on some shoots, in large groups on others"
+        ],
+        "button_label": "Singly on some shoots, in large groups on others",
+        "filter_label": "Needles single or in groups",
+        "questionId": "needle-grouping",
+        "attribute": "needles"
+      },
+      {
+        "id": "pairs",
+        "type": "include",
+        "value": [
+          "In pairs"
+        ],
+        "button_label": "In pairs",
+        "filter_label": "Needles in pairs",
+        "questionId": "needle-grouping",
+        "attribute": "needles"
+      },
+      {
+        "id": "no-needles",
+        "type": "include",
+        "value": [
+          "No needles"
+        ],
+        "button_label": "No needles",
+        "filter_label": "No needles",
+        "questionId": "needle-grouping",
+        "attribute": "needles"
+      }
+    ]
+  },
+  {
+    "id": "needle-length-bracket",
+    "attribute": "needles",
+    "description": "In general, how long are the adult needles?",
+    "default": "No needles",
+    "filters": [
+      {
+        "id": "under-2.5cm",
+        "type": "include",
+        "value": [
+          "Under 2.5cm"
+        ],
+        "button_label": "Under 2.5cm",
+        "filter_label": "Needles under 2.5cm",
+        "questionId": "needle-length-bracket",
+        "attribute": "needles"
+      },
+      {
+        "id": "up-to-4cm",
+        "type": "include",
+        "value": [
+          "Up to 4cm"
+        ],
+        "button_label": "Up to 4cm",
+        "filter_label": "Needles up to 4cm",
+        "questionId": "needle-length-bracket",
+        "attribute": "needles"
+      },
+      {
+        "id": "over-4cm",
+        "type": "include",
+        "value": [
+          "Over 4cm"
+        ],
+        "button_label": "Over 4cm",
+        "filter_label": "Needles over 4cm",
+        "questionId": "needle-length-bracket",
+        "attribute": "needles"
+      },
+      {
+        "id": "no-needles",
+        "type": "include",
+        "value": [
+          "No needles"
+        ],
+        "button_label": "No needles",
+        "filter_label": "No needles",
+        "questionId": "needle-length-bracket",
+        "attribute": "needles"
+      }
+    ]
+  },
+  {
+    "id": "needle-margin",
+    "attribute": "needles",
+    "description": "What best describes the 'margin' around the edge of a needle?",
+    "default": "No needles",
+    "filters": [
+      {
+        "id": "entire",
+        "type": "include",
+        "value": [
+          "Entire"
+        ],
+        "button_label": "Smooth and entire",
+        "filter_label": "Needle margins entire",
+        "questionId": "needle-margin",
+        "attribute": "needles"
+      },
+      {
+        "id": "finely-serrate",
+        "type": "include",
+        "value": [
+          "Finely serrate"
+        ],
+        "button_label": "Finely serrate",
+        "filter_label": "Needle margins finely serrate",
+        "questionId": "needle-margin",
+        "attribute": "needles"
+      },
+      {
+        "id": "no-needles",
+        "type": "include",
+        "value": [
+          "No needles"
+        ],
+        "button_label": "No needles",
+        "filter_label": "No needles",
+        "questionId": "needle-margin",
+        "attribute": "needles"
+      }
+    ]
+  },
+  {
+    "id": "needle-or-scale",
+    "attribute": "needles",
+    "description": "Are the leaves more needle or scale-like?",
+    "default": "Neither",
+    "filters": [
+      {
+        "id": "needle",
+        "type": "include",
+        "value": [
+          "Needle-like"
+        ],
+        "button_label": "Needle-like",
+        "filter_label": "Needle-like",
+        "questionId": "needle-or-scale",
+        "attribute": "needles"
+      },
+      {
+        "id": "scale",
+        "type": "include",
+        "value": [
+          "Scale-like"
+        ],
+        "button_label": "Scale-like",
+        "filter_label": "Scale-like",
+        "questionId": "needle-or-scale",
+        "attribute": "needles"
+      },
+      {
+        "id": "neither",
+        "type": "include",
+        "value": [
+          "Neither"
+        ],
+        "button_label": "Neither",
+        "filter_label": "Neither needle nor scale-like",
+        "questionId": "needle-or-scale",
+        "attribute": "needles"
+      }
+    ]
+  },
+  {
+    "id": "needle-stiffness",
+    "attribute": "needles",
+    "description": "Are the needles stiff?",
+    "default": "No needles",
+    "filters": [
+      {
+        "id": "stiff",
+        "type": "include",
+        "value": [
+          "Stiff"
+        ],
+        "button_label": "Stiff",
+        "filter_label": "Needles stiff",
+        "questionId": "needle-stiffness",
+        "attribute": "needles"
+      },
+      {
+        "id": "soft",
+        "type": "include",
+        "value": [
+          "Soft"
+        ],
+        "button_label": "Soft",
+        "filter_label": "Needles soft",
+        "questionId": "needle-stiffness",
+        "attribute": "needles"
+      },
+      {
+        "id": "no-needles",
+        "type": "include",
+        "value": [
+          "No needles"
+        ],
+        "button_label": "No needles",
+        "filter_label": "No needles",
+        "questionId": "needle-stiffness",
+        "attribute": "needles"
+      }
+    ]
+  }
+]

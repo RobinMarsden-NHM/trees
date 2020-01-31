@@ -1,0 +1,35 @@
+{
+  "id": "leaf-tip",
+  "attribute": "leaves",
+  "description": "Which of these best describes the tip of the leaf?",
+  "filters": [
+    {
+      "id": "Pointed",
+      "type": "include",
+      "value": "Pointed",
+      "button_label": "Pointed",
+      "filter_label": "Leaves pointed"
+    },
+    {
+      "id": "Rounded",
+      "type": "include",
+      "value": "Rounded",
+      "button_label": "Rounded",
+      "filter_label": "Leaf tips rounded"
+    },
+    {
+      "id": "Indented",
+      "type": "include",
+      "value": "Indented",
+      "button_label": "Indented",
+      "filter_label": "Leaf tips indented"
+    },
+    {
+      "id": "Obtuse",
+      "type": "include",
+      "value": "Obtuse",
+      "button_label": "Obtuse",
+      "filter_label": "Leaf tips obtuse"
+    }
+  ]
+}

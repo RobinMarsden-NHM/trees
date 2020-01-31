@@ -1,0 +1,23 @@
+{
+  "id": "service-tree",
+  "names": {
+    "common": "Service Tree",
+    "scientific": "Sorbus domestica"
+  },
+  "leaves": {
+    "leaf-type": "Compound",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Serrate",
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": [ "Over 10cm" ]
+  },
+  "leaflets": {
+    "leaflet-arrangement": "Odd-pinnate",
+    "leaflet-count-bracket": "11 to 21",
+    "leaflet-base": "Symmetrical"
+  },
+  "tree": {
+    "fruit-category": "Soft fruit or berries",
+    "flower-category": "Flowers with 5 petals"
+  }
+}

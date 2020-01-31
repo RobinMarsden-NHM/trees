@@ -1,0 +1,29 @@
+{
+  "id": "needle-margin",
+  "attribute": "needles",
+  "description": "What best describes the 'margin' around the edge of a needle?",
+  "default": "No needles",
+  "filters": [
+    {
+      "id": "entire",
+      "type": "include",
+      "value": "Entire",
+      "button_label": "Smooth and entire",
+      "filter_label": "Needle margins entire"
+    },
+    {
+      "id": "finely-serrate",
+      "type": "include",
+      "value": "Finely serrate",
+      "button_label": "Finely serrate",
+      "filter_label": "Needle margins finely serrate"
+    },
+    {
+      "id": "no-needles",
+      "type": "include",
+      "value": "No needles",
+      "button_label": "No needles",
+      "filter_label": "No needles"
+    }
+  ]
+}

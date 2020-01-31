@@ -1,0 +1,115 @@
+button {
+  padding: 0;
+}
+
+.button {
+	padding: 0.5rem 2rem;
+	margin: 1rem;
+	border: 2px solid $color-darkgreen;
+	background: $color-white;
+	cursor: pointer;
+
+	a {
+		font-size: 1.5rem;
+		color: $color-darkgreen;
+		text-decoration: none;
+	}
+}
+
+.button-wrapper,
+.inline-button-wrapper {
+  position: relative;
+  background: $color-white;
+  border: $green-border;
+  border-radius: 0.5rem;
+  outline: none;
+  box-shadow: $box-shadow;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  cursor: pointer;
+}
+
+.button-wrapper {
+  margin: 1rem;
+  padding: 0 0 0 2.5rem;
+  box-sizing: border-box;
+}
+
+.inline-button-wrapper {
+  padding: 0 0.5rem;
+  margin-bottom: 0.5rem;
+
+  svg {
+    color: $color-darkgreen;
+  }
+}
+
+.main-button,
+.filter-button {
+  &:not(.disabled):active {
+    outline: none !important;
+    box-shadow: none !important;
+    transform: scale(0.95);
+  }
+}
+
+.disabled {
+  color: $color-lightgrey;
+
+  svg {
+    color: $color-lightgrey;
+  }  
+}
+
+.inline-label-wrapper {
+  padding: 0.5rem;
+}
+
+.img-wrapper {
+  background: $color-white;
+  border-radius: 4rem;
+  border: 2px solid $color-darkgreen;
+  position: absolute;
+  left: -1.25rem;
+  height: 4rem;
+  width: 4rem;
+  padding: 0.25rem;
+  box-sizing: border-box;
+  box-shadow: $box-shadow;
+
+  svg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: $color-darkgreen;
+  }
+
+  img,
+  svg {
+    max-width: 100%;
+    max-height: 100%;
+  }
+}
+
+.label-wrapper {
+  text-align: left;
+  padding: 0.5rem 1rem 0.5rem 0.5rem;
+  box-sizing: border-box;
+  font-size: 1rem;
+}
+
+.main-button {
+  margin: 0 0.5rem;
+}
+
+.icon-button {
+  border: none;
+  background: none;
+  color: $color-darkgreen;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}

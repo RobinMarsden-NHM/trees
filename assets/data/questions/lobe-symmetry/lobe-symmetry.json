@@ -1,0 +1,29 @@
+{
+  "id": "lobe-symmetry",
+  "attribute": "lobes",
+  "description": "Are the lobes on each side of the leaf generally symmetrical?",
+  "default": "Not lobed",
+  "filters": [
+    {
+      "id": "symmetrical",
+      "type": "include",
+      "value": "Symmetrical",
+      "button_label": "Lobes are symmetrical",
+      "filter_label": "Lobes symmetrical"
+    },
+    {
+      "id": "asymmetric",
+      "type": "include",
+      "value": "Asymmetric",
+      "button_label": "Lobes are asymmetric",
+      "filter_label": "Lobes asymmetric"
+    },
+    {
+      "id": "Not lobed",
+      "type": "include",
+      "value": "Not lobed",
+      "button_label": "Not lobed",
+      "filter_label": "Not lobed"
+    }
+  ]
+}

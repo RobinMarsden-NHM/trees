@@ -1,0 +1,29 @@
+{
+  "id": "needle-or-scale",
+  "attribute": "needles",
+  "description": "Are the leaves more needle or scale-like?",
+  "default": "Neither",
+  "filters": [
+    {
+      "id": "needle",
+      "type": "include",
+      "value": "Needle-like",
+      "button_label": "Needle-like",
+      "filter_label": "Needle-like"
+    },
+    {
+      "id": "scale",
+      "type": "include",
+      "value": "Scale-like",
+      "button_label": "Scale-like",
+      "filter_label": "Scale-like"
+    },
+    {
+      "id": "neither",
+      "type": "include",
+      "value": "Neither",
+      "button_label": "Neither",
+      "filter_label": "Neither needle nor scale-like"
+    }
+  ]
+}

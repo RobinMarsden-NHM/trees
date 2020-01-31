@@ -1,0 +1,18 @@
+{
+  "id": "aspen",
+  "names": {
+    "common": "Aspen",
+    "scientific": "Populus tremula"
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Dentate",
+    "leaf-tip": [ "Rounded", "Pointed" ],
+    "leaf-length-bracket": [ "Up to 3cm", "3 to 6cm", "6 to 10cm" ]
+  },
+  "tree": {
+    "fruit-category": "Nuts or capsules",
+    "flower-category": "Catkins"
+  }
+}

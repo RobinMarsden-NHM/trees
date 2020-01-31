@@ -1,0 +1,25 @@
+{
+  "id": "hawthorn-common",
+  "names": {
+    "common": "Common Hawthorn",
+    "scientific": "Crataegus monogyna"
+  },
+  "leaves": {
+    "leaf-type": "Lobed",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Serrate",
+    "leaf-tip": [ "Obtuse", "Rounded" ],
+    "leaf-length-bracket": [ "Up to 3cm", "3 to 6cm" ]
+  },
+  "lobes": {
+    "lobe-count-bracket": "9 at most",
+    "lobe-symmetry": "Symmetrical",
+    "lobe-count": "Usually 5-7 lobes",
+    "lobe-sinus-base": "Acute",
+    "lobe-sinus-depth": "Nearly all the way"
+  },
+  "tree": {
+    "fruit-category": "Soft fruit or berries",
+    "flower-category": "Flowers with 5 petals"
+  }
+}

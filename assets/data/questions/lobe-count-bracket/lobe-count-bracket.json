@@ -1,0 +1,29 @@
+{
+  "id": "lobe-count-bracket",
+  "attribute": "lobes",
+  "description": "In general, how many distinct lobes does a leaf have?",
+  "default": "Not lobed",
+  "filters": [
+    {
+      "id": "9-at-most",
+      "type": "include",
+      "value": "9 at most",
+      "button_label": "9 at most",
+      "filter_label": "9 lobes at most"
+    },
+    {
+      "id": "some-over-9",
+      "type": "include",
+      "value": "Some have more than 9",
+      "button_label": "Some have more than 9",
+      "filter_label": "Some leaves have more than 9 lobes"
+    },
+    {
+      "id": "not-lobed",
+      "type": "include",
+      "value": "Not lobed",
+      "button_label": "Not lobed",
+      "filter_label": "Not lobed"
+    }
+  ]
+}

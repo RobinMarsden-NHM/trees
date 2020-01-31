@@ -1,0 +1,29 @@
+{
+  "id": "needle-emergence",
+  "attribute": "needles",
+  "description": "What best describes the way needles emerge from the twig?",
+  "default": "No needles",
+  "filters": [
+    {
+      "id": "spiral",
+      "type": "include",
+      "value": "Spiral",
+      "button_label": "Spirally around the twig",
+      "filter_label": "Needles emerge spirally"
+    },
+    {
+      "id": "spiral-flat",
+      "type": "include",
+      "value": "Spiral, but twisted to form a flat plane",
+      "button_label": "Spirally, but twisted to form a flat plane",
+      "filter_label": "Needles emerge spirally but are twisted flat"
+    },
+    {
+      "id": "no-needles",
+      "type": "include",
+      "value": "No needles",
+      "button_label": "No needles",
+      "filter_label": "No needles"
+    }
+  ]
+}

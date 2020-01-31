@@ -1,0 +1,25 @@
+{
+  "id": "oak-sessile",
+  "names": {
+    "common": "Sessile Oak",
+    "scientific": "Quercus petraea"
+  },
+  "leaves": {
+    "leaf-type": "Lobed",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Entire",
+    "leaf-tip": [ "Obtuse", "Rounded" ],
+    "leaf-length-bracket": [ "6 to 10cm", "Over 10cm" ]
+  },
+  "lobes": {
+    "lobe-count-bracket": "Some have more than 9",
+    "lobe-symmetry": "Asymmetric",
+    "lobe-count": "Usually 11-19 lobes",
+    "lobe-sinus-base": [ "Rounded", "Acute"],
+    "lobe-sinus-depth": "Less than halfway"
+  },
+  "tree": {
+    "fruit-category": "Nuts or capsules",
+    "flower-category": "Catkins"
+  }
+}

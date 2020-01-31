@@ -1,0 +1,36 @@
+{
+  "id": "lobe-sinus-depth",
+  "attribute": "lobes",
+  "description": "In general, how far do the sinuses between the lobes reach towards the leaf midrib?",
+  "default": "Not lobed",
+  "filters": [
+    {
+      "id": "shallow",
+      "type": "include",
+      "value": "Less than halfway",
+      "button_label": "Less than halfway",
+      "filter_label": "Shallow lobe sinuses"
+    },
+    {
+      "id": "halfway",
+      "type": "include",
+      "value": "About halfway",
+      "button_label": "About halfway",
+      "filter_label": "Lobe sinuses halfway to midrib"
+    },
+    {
+      "id": "deep",
+      "type": "include",
+      "value": "Nearly all the way",
+      "button_label": "Nearly all the way",
+      "filter_label": "Deep lobe sinuses"
+    },
+    {
+      "id": "Not lobed",
+      "type": "include",
+      "value": "Not lobed",
+      "button_label": "Not lobed",
+      "filter_label": "Not lobed"
+    }
+  ]
+}

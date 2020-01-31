@@ -1,0 +1,26 @@
+{
+  "id": "juniper-common",
+  "names": {
+    "common": "Common Juniper",
+    "scientific": "Juniperus communis"
+  },
+  "leaves": {
+    "leaf-type": "Needle-like",
+    "leaf-arrangement": "Other",
+    "leaf-margin": "Entire",
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": "Up to 3cm"
+  },
+  "needles": {
+    "needle-or-scale": "Needle-like",
+    "needle-grouping": "In whorls of 3",
+    "needle-emergence": "Spiral",
+    "needle-length-bracket": "Under 2.5cm",
+    "needle-base-type": "Broad attachment",
+    "needle-margin": "Entire",
+    "needle-stiffness": "Stiff"
+  },
+  "tree": {
+    "fruit-category": [ "Soft fruit or berries", "Dry or woody cones" ]
+  }
+}

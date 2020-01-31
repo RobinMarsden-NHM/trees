@@ -1,0 +1,19 @@
+{
+  "id": "alder",
+  "names": {
+    "common": "Alder",
+    "scientific": "Alnus glutinosa",
+    "other": [ "Common Alder", "European Alder", "Black Alder" ]
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Serrate",
+    "leaf-tip": [ "Rounded", "Indented" ],
+    "leaf-length-bracket": [ "3 to 6cm", "6 to 10cm" ]
+  },
+  "tree": {
+    "fruit-category": "Dry or woody cones",
+    "flower-category": "Catkins"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "lobe-count",
+  "attribute": "lobes",
+  "description": "How many lobes do the leaves tend to have?",
+  "default": "Not lobed",
+  "filters": [
+    {
+      "id": "3-5-lobes",
+      "type": "include",
+      "value": "Usually 3-5 lobes",
+      "button_label": "Usually 3-5 lobes",
+      "filter_label": "Leaves usually have 3-5 lobes"
+    },
+    {
+      "id": "5-lobes",
+      "type": "include",
+      "value": "Usually 5 lobes",
+      "button_label": "Usually 5 lobes",
+      "filter_label": "Leaves usually have 5 lobes"
+    },
+    {
+      "id": "5-7-lobes",
+      "type": "include",
+      "value": "Usually 5-7 lobes",
+      "button_label": "Usually 5-7 lobes",
+      "filter_label": "Leaves usually have 5-7 lobes"
+    },
+    {
+      "id": "5-9-lobes",
+      "type": "include",
+      "value": "Usually 5-9 lobes",
+      "button_label": "Usually 5-9 lobes",
+      "filter_label": "Leaves usually have 5-9 lobes"
+    },
+    {
+      "id": "7-15-lobes",
+      "type": "include",
+      "value": "Usually 7-15 lobes",
+      "button_label": "Usually 7-15 lobes",
+      "filter_label": "Leaves usually have 7-15 lobes"
+    },
+    {
+      "id": "11-19-lobes",
+      "type": "include",
+      "value": "Usually 11-19 lobes",
+      "button_label": "Usually 11-19 lobes",
+      "filter_label": "Leaves usually have 11-19 lobes"
+    },
+    {
+      "id": "not-lobed",
+      "type": "include",
+      "value": "Not lobed",
+      "button_label": "Not lobed",
+      "filter_label": "Not lobed"
+    }
+  ]
+}

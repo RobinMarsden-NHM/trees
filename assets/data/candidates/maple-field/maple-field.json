@@ -1,0 +1,25 @@
+{
+  "id": "maple-field",
+  "names": {
+    "common": "Field Maple",
+    "scientific": "Acer campestre"
+  },
+  "leaves": {
+    "leaf-type": "Lobed",
+    "leaf-arrangement": "Opposite",
+    "leaf-margin": "Entire",
+    "leaf-tip": [ "Obtuse", "Rounded" ],
+    "leaf-length-bracket": [ "3 to 6cm", "6 to 10cm" ]
+  },
+  "lobes": {
+    "lobe-count-bracket": "9 at most",
+    "lobe-symmetry": "Symmetrical",
+    "lobe-count": "Usually 5 lobes",
+    "lobe-sinus-base": [ "Rounded", "Acute" ],
+    "lobe-sinus-depth": "About halfway"
+  },
+  "tree": {
+    "fruit-category": "Winged seeds",
+    "flower-category": [ "Flowers with 5 petals", "Flowers without 5 petals" ]
+  }
+}

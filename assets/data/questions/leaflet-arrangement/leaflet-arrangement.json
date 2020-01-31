@@ -1,0 +1,29 @@
+{
+  "id": "leaflet-arrangement",
+  "attribute": "leaflets",
+  "description": "How are the leaflets arranged around the main stem?",
+  "default": "No leaflets",
+  "filters": [
+    {
+      "id": "odd-pinnate",
+      "type": "include",
+      "value": "Odd-pinnate",
+      "button_label": "Odd-pinnate",
+      "filter_label": "Odd-pinnate leaflets"
+    },
+    {
+      "id": "palmate",
+      "type": "include",
+      "value": "Palmate",
+      "button_label": "Palmate",
+      "filter_label": "Palmate leaflets"
+    },
+    {
+      "id": "No leaflets",
+      "type": "include",
+      "value": "No leaflets",
+      "button_label": "No leaflets",
+      "filter_label": "No leaflets"
+    }
+  ]
+}

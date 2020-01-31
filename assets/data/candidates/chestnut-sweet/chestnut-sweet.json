@@ -1,0 +1,18 @@
+{
+  "id": "chestnut-sweet",
+  "names": {
+    "common": "Sweet Chestnut",
+    "scientific": "Castanea sativa"
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": "Serrate",
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": "Over 10cm"
+  },
+  "tree": {
+    "fruit-category": "Nuts or capsules",
+    "flower-category": "Catkins"
+  }
+}

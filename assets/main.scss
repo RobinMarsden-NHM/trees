@@ -1,0 +1,48 @@
+@import 'scss/variables.scss';
+@import 'scss/typography.scss';
+@import 'scss/transitions.scss';
+@import 'scss/buttons.scss';
+
+body {
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
+
+.layout {
+	height: 100vh;
+	width: 100vw;
+	background: url('./img/bg3.png');
+	color: $color-darkgreen;
+	overflow: hidden;
+}
+
+.container {
+	overflow: auto;
+	background: $color-white;
+	margin: 0 auto;
+	height: 100%;
+	width: 100%;
+	max-width: 800px;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+header {
+  padding: 1rem;
+}
+
+main {
+	flex: 1;
+	overflow: auto;
+}
+
+.filter-button-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding: 1rem;
+}

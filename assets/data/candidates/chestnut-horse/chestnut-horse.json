@@ -1,0 +1,23 @@
+{
+  "id": "chestnut-horse",
+  "names": {
+    "common": "Horse Chestnut",
+    "scientific": "Aesculus hippocastanum"
+  },
+  "leaves": {
+    "leaf-type": "Compound",
+    "leaf-arrangement": "Opposite",
+    "leaf-margin": "Serrate",
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": "Over 10cm"
+  },
+  "leaflets": {
+  	"leaflet-arrangement": "Palmate",
+    "leaflet-count-bracket": "5 to 7",
+    "leaflet-base": "Symmetrical"
+  },
+  "tree": {
+    "fruit-category": "Nuts or capsules",
+    "flower-category": [ "Flowers with 5 petals", "Flowers without 5 petals" ]
+  }
+}

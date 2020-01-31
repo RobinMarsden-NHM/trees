@@ -1,0 +1,28 @@
+{
+  "id": "leaf-arrangement",
+  "attribute": "leaves",
+  "description": "How are the leaves arranged along the stem?",
+  "filters": [
+    {
+      "id": "alternate",
+      "type": "include",
+      "value": "Alternate",
+      "button_label": "Individual leaves alternating",
+      "filter_label": "Leaves alternate"
+    },
+    {
+      "id": "opposite",
+      "type": "include",
+      "value": "Opposite",
+      "button_label": "Leaves in opposite pairs",
+      "filter_label": "Leaves opposite"
+    },
+    {
+      "id": "other",
+      "type": "include",
+      "value": "Other",
+      "button_label": "Unclear or other",
+      "filter_label": "Unclear arrangement"
+    }
+  ]
+}

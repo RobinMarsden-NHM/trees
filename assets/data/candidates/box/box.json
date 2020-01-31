@@ -1,0 +1,18 @@
+{
+  "id": "box",
+  "names": {
+    "common": "Box Tree",
+    "scientific": "Buxus sempervirens"
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Opposite",
+    "leaf-margin": "Entire",
+    "leaf-tip": [ "Rounded", "Indented" ],
+    "leaf-length-bracket": "Up to 3cm"
+  },
+  "tree": {
+    "fruit-category": "Nuts or capsules",
+    "flower-category": "Flowers without 5 petals"
+  }
+}

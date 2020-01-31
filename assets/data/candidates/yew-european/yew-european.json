@@ -1,0 +1,27 @@
+{
+  "id": "yew-european",
+  "names": {
+    "common": "European Yew",
+    "scientific": "Taxus baccata"
+  },
+  "leaves": {
+    "leaf-type": "Needle-like",
+    "leaf-arrangement": "Other",
+    "leaf-margin": "Entire",
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": [ "Up to 3cm", "3 to 6cm" ]
+  },
+  "needles": {
+    "needle-or-scale": "Needle-like",
+    "needle-grouping": "Singly",
+    "needle-emergence": "Spiral",
+    "needle-length-bracket": "Up to 4cm",
+    "needle-base-type": "Decurrent",
+    "needle-margin": "Entire",
+    "needle-stiffness": "Stiff"
+  },
+  "tree": {
+    "fruit-category": [ "Soft fruit or berries", "Dry or woody cones" ],
+    "flower-category": "Flowers without 5 petals"
+  }
+}

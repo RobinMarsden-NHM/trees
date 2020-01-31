@@ -1,0 +1,19 @@
+{
+  "id": "lime-large-leaved",
+  "names": {
+    "common": "Large-leaved Lime",
+    "scientific": "Tilia platyphyllos",
+    "other": [ "Large-leaved Linden" ]
+  },
+  "leaves": {
+    "leaf-type": "Simple",
+    "leaf-arrangement": "Alternate",
+    "leaf-margin": [ "Serrate", "Crenate" ],
+    "leaf-tip": "Pointed",
+    "leaf-length-bracket": [ "6 to 10cm", "Over 10cm" ]
+  },
+  "tree": {
+    "fruit-category": "Nuts or capsules",
+    "flower-category": "Flowers with 5 petals"
+  }
+}

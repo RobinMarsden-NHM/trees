@@ -1,0 +1,50 @@
+{
+  "id": "fruit-category",
+  "attribute": "tree",
+  "description": "Can you see any fruit, berries, nuts or seeds on the tree?",
+  "common": "No fruit",
+  "filters": [
+    {
+      "id": "soft-fruit",
+      "type": "include",
+      "value": "Soft fruit or berries",
+      "button_label": "Soft fruit or berries",
+      "filter_label": "Soft fruit or berries"
+    },
+    {
+      "id": "dry-cones",
+      "type": "include",
+      "value": "Dry or woody cones",
+      "button_label": "Dry or woody cones",
+      "filter_label": "Dry or woody cones"
+    },
+    {
+      "id": "nut-or-capsule",
+      "type": "include",
+      "value": "Nuts or capsules",
+      "button_label": "Nuts or capsules",
+      "filter_label": "Nuts or capsules"
+    },
+    {
+      "id": "winged-seeds",
+      "type": "include",
+      "value": "Winged seeds",
+      "button_label": "Winged seeds",
+      "filter_label": "Winged seeds"
+    },
+    {
+      "id": "downy-seeds",
+      "type": "include",
+      "value": "Downy seeds",
+      "button_label": "Downy seeds",
+      "filter_label": "Downy seeds"
+    },
+    {
+      "id": "no-fruit",
+      "type": "include",
+      "value": "No fruit",
+      "button_label": "No fruit or seeds",
+      "filter_label": "No fruit or seeds"
+    }
+  ]
+}
